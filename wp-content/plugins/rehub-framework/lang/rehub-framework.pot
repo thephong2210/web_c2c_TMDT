@@ -1,0 +1,7068 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: rehub_translation\n"
+"POT-Creation-Date: 2021-02-08 01:28+0200\n"
+"PO-Revision-Date: 2017-04-30 03:43+0200\n"
+"Last-Translator: Sizam themes <sizamtheme@gmail.com>\n"
+"Language-Team: Sizam Design <sizamtheme@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2;_x;_n:1,2;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/box/help/description.js:2
+msgid "Colored Info Boxes"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/help/title.js:2
+msgid "Info box"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/itinerary/SettingsList.js:63
+#: gutenberg/src/blocks/promo-box/edit.js:127
+#: gutenberg/src/blocks/review-list/components/ContentColumn.js:60
+#: gutenberg/src/blocks/review-list/offer-listing/Inspector.js:45
+#: gutenberg/src/blocks/review-list/offer-listing/edit.js:73
+#: gutenberg/src/blocks/review-list/schema.js:38
+#: gutenberg/src/components/card-list/index.js:46
+msgid "Content"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:35
+#: gutenberg/src/blocks/heading/inspector.js:34
+#: gutenberg/src/blocks/titlebox/inspector.js:26
+msgid "Main Settings"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:38
+#: gutenberg/src/blocks/pretty-list/Inspector.js:31
+#: gutenberg/src/blocks/titlebox/inspector.js:29
+#: gutenberg/src/blocks/versus-table/Inspector.js:79
+#: gutenberg/src/blocks/versus-table/Inspector.js:114
+#: gutenberg/src/blocks/versus-table/Inspector.js:171
+#: gutenberg/src/blocks/versus-table/Inspector.js:229
+msgid "Type"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:40
+#: inc/widgets/better_menu.php:147
+msgid "Info"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:41
+msgid "Download"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:42
+#: install/index.php:771
+msgid "Error"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:43
+msgid "Warning"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:44
+msgid "Yellow color box"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:45
+msgid "Green color box"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:46
+msgid "Gray color box"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:47
+msgid "Blue color box"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:48
+msgid "Red color box"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:49
+msgid "Dashed"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:50
+msgid "Solid border"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:51
+msgid "Transparent background box"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:57
+msgid "Box float"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:59
+msgid "None"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:60
+#: gutenberg/src/blocks/box/inspector.js:69
+#: gutenberg/src/blocks/promo-box/Inspector.js:126 includes/customizer.php:410
+#: includes/customizer.php:963 includes/customizer.php:1259
+msgid "Left"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:61
+#: gutenberg/src/blocks/box/inspector.js:70
+#: gutenberg/src/blocks/promo-box/Inspector.js:128 includes/customizer.php:412
+#: includes/customizer.php:965 includes/customizer.php:1261
+msgid "Right"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:67
+msgid "Text align"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:71
+msgid "Justify"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:72
+#: includes/customizer.php:411 includes/customizer.php:964
+#: includes/customizer.php:1260
+msgid "Center"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:78
+msgid "Take current date"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/inspector.js:86
+#: gutenberg/src/components/select/index.js:141 inc/options/option.php:3407
+#: inc/options/option.php:3434 inc/options/option.php:3461
+#: inc/options/option.php:3488
+msgid "Label"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/controls.js:15
+#: gutenberg/src/blocks/heading/controls.js:17
+msgid "Align Text Left"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/controls.js:20
+#: gutenberg/src/blocks/heading/controls.js:22
+msgid "Align Text Center"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/controls.js:25
+#: gutenberg/src/blocks/heading/controls.js:27
+msgid "Align Text Right"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/box/controls.js:30
+msgid "Align Text Justify"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/color-heading/Inspector.js:21
+#: gutenberg/src/blocks/color-heading/edit.js:51
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:91
+#: gutenberg/src/blocks/promo-box/edit.js:117
+#: gutenberg/src/blocks/review-box/Inspector.js:33
+#: gutenberg/src/blocks/review-heading/Inspector.js:55
+#: gutenberg/src/blocks/review-heading/edit.js:54
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:62
+#: gutenberg/src/components/QueryControl.js:252
+#: gutenberg/src/components/card-list/index.js:39
+#: gutenberg/src/components/heading-buttons-control/index.js:68
+#: inc/metabox/page_topchart.php:53 inc/metabox/post_type.php:82
+msgid "Title"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/titlebox/inspector.js:31
+msgid "Grey"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/titlebox/inspector.js:32
+msgid "Black"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/titlebox/inspector.js:33
+#: inc/widgets/better_menu.php:160
+msgid "Orange"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/titlebox/inspector.js:34 inc/options/option.php:904
+#: includes/customizer.php:768
+msgid "Main Theme Color"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/titlebox/inspector.js:35 inc/options/option.php:908
+#: includes/customizer.php:767
+msgid "Secondary Theme Color"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/titlebox/inspector.js:36
+msgid "Double dotted"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/titlebox/help/description.js:2
+msgid "Bordered Box with title"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/titlebox/help/title.js:2
+msgid "Title box"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/heading/attributes.js:14
+#: gutenberg/src/blocks/heading/help/title.js:2
+#: gutenberg/src/blocks/review-heading/index.js:19
+#: gutenberg/src/blocks/versus-table/Inspector.js:61
+#: gutenberg/src/components/heading-buttons-control/index.js:24
+#: gutenberg/src/components/heading-buttons-control/index.js:29
+#: gutenberg/src/components/heading-buttons-control/index.js:34
+#: gutenberg/src/components/heading-buttons-control/index.js:39
+#: gutenberg/src/components/heading-buttons-control/index.js:44
+#: gutenberg/src/components/heading-buttons-control/index.js:49
+msgid "Heading"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/heading/attributes.js:18
+msgid "01."
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/heading/edit.js:57
+msgid "Write heading…"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/heading/inspector.js:37
+msgid "Level"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1 gutenberg/src/blocks/heading/inspector.js:49
+msgid "Background Text"
+msgstr ""
+
+#: gutenberg/assets/js/editor.js:1
+#: gutenberg/src/blocks/heading/help/description.js:2
+msgid "Heading with number in background"
+msgstr ""
+
+#: gutenberg/blocks/class-offerlisting.php:102 gutenberg/class-rest.php:299
+#: gutenberg/src/components/expired/index.js:30
+msgid "days left"
+msgstr ""
+
+#: gutenberg/blocks/class-offerlisting.php:106 gutenberg/class-rest.php:302
+#: gutenberg/src/components/expired/index.js:28
+msgid "Last day"
+msgstr ""
+
+#: gutenberg/blocks/class-offerlisting.php:110 gutenberg/class-rest.php:305
+#: gutenberg/src/blocks/wc-box/components/ContentColumn.js:23
+#: gutenberg/src/components/expired/index.js:14
+#: gutenberg/src/components/expired/index.js:26
+msgid "Expired"
+msgstr ""
+
+#: gutenberg/blocks/class-offerlisting.php:190
+msgid "Buy It Now"
+msgstr ""
+
+#: gutenberg/blocks/class-offerlisting.php:213 gutenberg/class-rest.php:289
+#: gutenberg/class-rest.php:407 gutenberg/src/blocks/wc-box/schema.js:72
+msgid "Reveal coupon"
+msgstr ""
+
+#: gutenberg/blocks/class-offerlisting.php:244
+#: gutenberg/src/blocks/review-list/components/CtaColumn.js:62
+#: gutenberg/src/blocks/review-list/offer-listing/Inspector.js:63
+#: gutenberg/src/blocks/review-list/offer-listing/edit.js:91
+#: gutenberg/src/blocks/review-list/schema.js:58
+msgid "Read full review"
+msgstr ""
+
+#: gutenberg/class-init.php:47
+msgid "Rehub Helper Modules"
+msgstr ""
+
+#: gutenberg/class-rest.php:144
+msgid "No Title"
+msgstr ""
+
+#: gutenberg/class-rest.php:204 gutenberg/src/components/coupon/index.js:56
+msgid "Reveal"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:7
+msgid "Rehub Profitable"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:12
+msgid "Content Helpers"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:18
+msgid "Versus Block"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:28
+msgid "Heading and CTA block"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:47
+msgid "Two column group with slider"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:49
+msgid "Will show you two columns with full width button and slider"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:57
+msgid "Quote with image"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:78
+msgid "Table of Content Shortcode"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:87
+msgid "Top list shortcode"
+msgstr ""
+
+#: gutenberg/gutenbergtemplates.php:96
+msgid "Sticky panel Contents shortcode"
+msgstr ""
+
+#: gutenberg/src/blocks/accordion/Inspector.js:28
+msgid "Tabs"
+msgstr ""
+
+#: gutenberg/src/blocks/accordion/Inspector.js:33
+#: gutenberg/src/blocks/accordion/Inspector.js:41
+#: gutenberg/src/blocks/accordion/edit.js:71
+#: gutenberg/src/blocks/accordion/edit.js:108
+#: gutenberg/src/blocks/accordion/schema.js:11
+#: gutenberg/src/blocks/color-heading/schema.js:13
+#: gutenberg/src/blocks/promo-box/schema.js:9
+#: gutenberg/src/blocks/review-heading/schema.js:17
+msgid "Sample title"
+msgstr ""
+
+#: gutenberg/src/blocks/accordion/Inspector.js:34
+#: gutenberg/src/blocks/accordion/Inspector.js:42
+#: gutenberg/src/blocks/accordion/edit.js:86
+#: gutenberg/src/blocks/accordion/edit.js:109
+#: gutenberg/src/blocks/accordion/schema.js:12
+#: gutenberg/src/blocks/promo-box/schema.js:13
+msgid "Sample content"
+msgstr ""
+
+#: gutenberg/src/blocks/accordion/Inspector.js:49
+msgid "Add Accordition"
+msgstr ""
+
+#: gutenberg/src/blocks/accordion/index.js:18
+msgid "Accordion"
+msgstr ""
+
+#: gutenberg/src/blocks/accordion/index.js:19
+msgid ""
+"Accordions are useful when you want to toggle between hiding and showing "
+"large amount of content"
+msgstr ""
+
+#: gutenberg/src/blocks/color-heading/Inspector.js:19
+#: gutenberg/src/blocks/itinerary/Inspector.js:29
+#: gutenberg/src/blocks/pretty-list/Inspector.js:29
+#: gutenberg/src/blocks/promo-box/Inspector.js:41
+#: gutenberg/src/blocks/review-box/Inspector.js:31
+#: gutenberg/src/blocks/review-heading/Inspector.js:30
+#: gutenberg/src/blocks/slider/Inspector.js:30 inc/options/option.php:1420
+#: inc/options/option.php:2124
+msgid "General"
+msgstr ""
+
+#: gutenberg/src/blocks/color-heading/Inspector.js:28
+#: gutenberg/src/blocks/color-heading/edit.js:62
+#: gutenberg/src/blocks/review-heading/Inspector.js:66
+#: gutenberg/src/blocks/review-heading/edit.js:64
+msgid "Subtitle"
+msgstr ""
+
+#: gutenberg/src/blocks/color-heading/Inspector.js:34
+msgid "Title color :"
+msgstr ""
+
+#: gutenberg/src/blocks/color-heading/Inspector.js:43
+msgid "Subtitle color :"
+msgstr ""
+
+#: gutenberg/src/blocks/color-heading/Inspector.js:52
+#: gutenberg/src/blocks/promo-box/Inspector.js:42
+msgid "Background-color :"
+msgstr ""
+
+#: gutenberg/src/blocks/color-heading/index.js:18
+msgid "Color Heading"
+msgstr ""
+
+#: gutenberg/src/blocks/color-heading/index.js:19
+msgid "Simple heading with select of background color"
+msgstr ""
+
+#: gutenberg/src/blocks/color-heading/schema.js:17
+#: gutenberg/src/blocks/review-heading/schema.js:25
+msgid "Sample subtitle"
+msgstr ""
+
+#: gutenberg/src/blocks/cons-pros/index.js:18
+msgid "Cons Pros"
+msgstr ""
+
+#: gutenberg/src/blocks/cons-pros/index.js:19
+msgid "Box with positive and negative items"
+msgstr ""
+
+#: gutenberg/src/blocks/cons-pros/schema.js:6
+#: gutenberg/src/blocks/cons-pros/schema.js:12
+#: gutenberg/src/blocks/review-box/schema.js:26
+#: gutenberg/src/components/cons-pros/index.js:33
+#: gutenberg/src/components/cons-pros/index.js:51
+#: gutenberg/src/components/cons-pros/inspector.js:28
+#: gutenberg/src/components/cons-pros/inspector.js:40
+msgid "Positive"
+msgstr ""
+
+#: gutenberg/src/blocks/cons-pros/schema.js:18
+#: gutenberg/src/blocks/review-box/schema.js:34
+#: gutenberg/src/components/cons-pros/index.js:81
+#: gutenberg/src/components/cons-pros/inspector.js:56
+#: gutenberg/src/components/cons-pros/inspector.js:60
+#: gutenberg/src/components/cons-pros/inspector.js:67
+msgid "Negatives"
+msgstr ""
+
+#: gutenberg/src/blocks/cons-pros/schema.js:24
+#: gutenberg/src/components/cons-pros/index.js:99
+#: gutenberg/src/components/cons-pros/inspector.js:72
+msgid "Negative"
+msgstr ""
+
+#: gutenberg/src/blocks/itinerary/Inspector.js:40
+#: gutenberg/src/blocks/itinerary/ItineraryItem.js:26
+#: gutenberg/src/blocks/itinerary/edit.js:54
+#: gutenberg/src/blocks/itinerary/schema.js:13
+#: gutenberg/src/blocks/itinerary/schema.js:18
+#: gutenberg/src/blocks/itinerary/schema.js:23
+msgid "Box Content"
+msgstr ""
+
+#: gutenberg/src/blocks/itinerary/Inspector.js:44
+#: gutenberg/src/blocks/review-box/Inspector.js:87
+#: gutenberg/src/components/cons-pros/inspector.js:52
+#: gutenberg/src/components/cons-pros/inspector.js:84
+msgid "Add Item"
+msgstr ""
+
+#: gutenberg/src/blocks/itinerary/SettingsList.js:44
+msgid "Icon"
+msgstr ""
+
+#: gutenberg/src/blocks/itinerary/SettingsList.js:52
+msgid "Set background color"
+msgstr ""
+
+#: gutenberg/src/blocks/itinerary/SettingsList.js:72
+#: gutenberg/src/blocks/pretty-list/ItemSettings.js:34
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:261
+#: gutenberg/src/blocks/slider/SlidesSettings.js:54
+msgid "Remove item"
+msgstr ""
+
+#: gutenberg/src/blocks/itinerary/index.js:18
+msgid "Itinerary"
+msgstr ""
+
+#: gutenberg/src/blocks/itinerary/index.js:19
+msgid "Itinerary list with icons"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/index.js:20
+msgid "OfferBox"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/index.js:21
+msgid "Offer Box description"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:58
+#: gutenberg/src/blocks/review-list/offer-listing/Inspector.js:76
+msgid "Manual Fields"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:61
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:72
+#: includes/theme_metabox.php:102
+msgid "Offer url"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:63
+msgid "https://"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:76
+msgid "Try to parse offer data"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:100
+#: gutenberg/src/blocks/offerbox-modules/components/ContentColumn.js:186
+#: gutenberg/src/blocks/review-box/Inspector.js:41
+#: gutenberg/src/blocks/wc-box/schema.js:39 inc/metabox/post_type.php:93
+msgid "Description"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:109
+msgid "Disclaimer or additional information"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:118
+msgid "Regular price"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:128
+msgid "Sale price"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:137
+msgid "Discount (%)"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:149
+msgid "Star rating"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:160
+msgid "Coupon code"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:170
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:196
+msgid "Choose date of finish"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:183
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:210
+#: includes/theme_metabox.php:150 includes/theme_metabox.php:286
+msgid "Mask coupon code?"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:192
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:220
+msgid "Mask Text"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:211
+msgid "Button Text"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:222
+#: gutenberg/src/blocks/versus-table/Inspector.js:118
+#: gutenberg/src/blocks/versus-table/Inspector.js:175
+#: gutenberg/src/blocks/versus-table/Inspector.js:233
+#: inc/metabox/post_type.php:126
+msgid "Image"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:258
+msgid "Border color"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/OfferBox/inspector.js:268
+msgid "Autopopulate data to Post offer fields"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/PostOfferBox/index.js:19
+msgid "Post OfferBox"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/PostOfferBox/index.js:20
+msgid "Post OfferBox description"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/PostOfferBox/inspector.js:25
+msgid "Copy data from Posts"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/PostOfferBox/inspector.js:27
+#: gutenberg/src/blocks/review-list/components/ContentColumn.js:24
+#: gutenberg/src/blocks/review-list/offer-listing/Inspector.js:44
+#: gutenberg/src/blocks/review-list/offer-listing/edit.js:72
+#: gutenberg/src/blocks/review-list/post-offer-listing/Inspector.js:27
+#: gutenberg/src/blocks/review-list/schema.js:37
+msgid "Post name"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/components/ContentColumn.js:51
+msgid "Product Name"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/components/ContentColumn.js:63
+#: gutenberg/src/blocks/wc-box/Inspector.js:27
+#: gutenberg/src/blocks/wc-box/schema.js:35
+msgid "Product name"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/components/ContentColumn.js:81
+msgid "50"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/components/ContentColumn.js:93
+#: gutenberg/src/blocks/review-list/components/Price.js:23
+msgid "100"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/components/ContentColumn.js:118
+#: gutenberg/src/blocks/review-list/components/Disclaimer.js:25
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:230
+#: includes/theme_metabox.php:120
+msgid "Disclaimer"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/components/ContentColumn.js:139
+#: gutenberg/src/blocks/review-list/components/Button.js:30
+#: gutenberg/src/blocks/review-list/offer-listing/Inspector.js:54
+#: gutenberg/src/blocks/review-list/offer-listing/edit.js:82
+#: gutenberg/src/blocks/review-list/schema.js:48
+msgid "Buy this item"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/components/ImageColumn.js:53
+msgid "Product image"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/utils/fetchService.js:53
+msgid "Url is not valid"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/utils/fetchService.js:79
+#: gutenberg/src/blocks/offerbox-modules/utils/fetchService.js:96
+msgid "Not found matching data"
+msgstr ""
+
+#: gutenberg/src/blocks/offerbox-modules/utils/fetchService.js:146
+#: gutenberg/src/blocks/review-list/utils/fetchReviewData.js:31
+#: gutenberg/src/blocks/wc-box/util/updateProductData.js:26
+msgid "Fields updated"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/Inspector.js:34
+msgid "Arrow"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/Inspector.js:35
+msgid "Check"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/Inspector.js:36
+#: inc/widgets/better_menu.php:148
+msgid "Star"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/Inspector.js:37
+msgid "Bullet"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/Inspector.js:44
+msgid "Items"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/Inspector.js:53
+#: gutenberg/src/blocks/pretty-list/edit.js:53
+#: gutenberg/src/blocks/pretty-list/edit.js:68
+msgid "Sample Item"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/Inspector.js:56
+#: gutenberg/src/blocks/review-list/offer-listing/Inspector.js:81
+msgid "Add item"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/ItemSettings.js:24
+#: gutenberg/src/blocks/promo-box/Inspector.js:184
+#: gutenberg/src/blocks/versus-table/Inspector.js:117
+#: gutenberg/src/blocks/versus-table/Inspector.js:174
+#: gutenberg/src/blocks/versus-table/Inspector.js:232
+msgid "Text"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/index.js:18
+msgid "Pretty List"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/index.js:19
+msgid "List with a rich settings of styles"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/schema.js:27
+msgid "Sample Item #1"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/schema.js:30
+msgid "Sample Item #2"
+msgstr ""
+
+#: gutenberg/src/blocks/pretty-list/schema.js:33
+msgid "Sample Item #3"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:51
+msgid "Text color :"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:63
+msgid "Show border?"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:74
+msgid "Border size :"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:77
+msgid "1px"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:78
+msgid "2px"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:79
+msgid "3px"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:80
+msgid "4px"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:81
+msgid "5px"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:89
+msgid "Border color :"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:103
+msgid "Show highlight border?"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:113
+msgid "Highlight color :"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:123
+msgid "Highlight position :"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:127
+msgid "Top"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:129
+msgid "Bottom"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:142
+msgid "Show button?"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:153
+msgid "Button link :"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:162
+msgid "Button text :"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/Inspector.js:175
+msgid "Title of box :"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/edit.js:97
+msgid "Buy item"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/index.js:18
+msgid "Promo Box"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/index.js:19
+msgid ""
+"Box specifically designed for promotional products to target key clients"
+msgstr ""
+
+#: gutenberg/src/blocks/promo-box/schema.js:57
+msgid "Purchase Now"
+msgstr ""
+
+#: gutenberg/src/blocks/review-box/Inspector.js:35
+#: gutenberg/src/blocks/review-box/edit.js:71
+#: gutenberg/src/blocks/review-box/schema.js:6
+msgid "Awesome"
+msgstr ""
+
+#: gutenberg/src/blocks/review-box/Inspector.js:42
+#: gutenberg/src/blocks/review-box/edit.js:83
+#: gutenberg/src/blocks/review-box/schema.js:10
+msgid "Place here Description for your reviewbox"
+msgstr ""
+
+#: gutenberg/src/blocks/review-box/Inspector.js:49
+msgid "Score Value"
+msgstr ""
+
+#: gutenberg/src/blocks/review-box/Inspector.js:60
+msgid "Set background color or leave blank"
+msgstr ""
+
+#: gutenberg/src/blocks/review-box/Inspector.js:70
+msgid "Criterias"
+msgstr ""
+
+#: gutenberg/src/blocks/review-box/Inspector.js:75
+#: gutenberg/src/blocks/review-box/Inspector.js:82
+msgid "Criteria name"
+msgstr ""
+
+#: gutenberg/src/blocks/review-box/edit.js:67
+msgid "Expert Score"
+msgstr ""
+
+#: gutenberg/src/blocks/review-box/index.js:18
+msgid "Review Box"
+msgstr ""
+
+#: gutenberg/src/blocks/review-box/index.js:19
+msgid "Box with selection of scopes, positive and negative items"
+msgstr ""
+
+#: gutenberg/src/blocks/review-heading/Inspector.js:32
+msgid "Include Position Number?"
+msgstr ""
+
+#: gutenberg/src/blocks/review-heading/Inspector.js:39
+msgid "Include Image?"
+msgstr ""
+
+#: gutenberg/src/blocks/review-heading/Inspector.js:47
+msgid "Position"
+msgstr ""
+
+#: gutenberg/src/blocks/review-heading/Inspector.js:75
+#: gutenberg/src/blocks/slider/SlidesSettings.js:30
+#: gutenberg/src/blocks/versus-table/Inspector.js:145
+#: gutenberg/src/blocks/versus-table/Inspector.js:202
+#: gutenberg/src/blocks/versus-table/Inspector.js:260
+msgid "Upload Image"
+msgstr ""
+
+#: gutenberg/src/blocks/review-heading/Inspector.js:99
+msgid "Image Target Link"
+msgstr ""
+
+#: gutenberg/src/blocks/review-heading/edit.js:41
+msgid "1"
+msgstr ""
+
+#: gutenberg/src/blocks/review-heading/index.js:18
+#: inc/metabox/post_type.php:164 inc/metabox/woo_review.php:29
+msgid "Review Heading"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/ContentColumn.js:44
+msgid "Best values"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:60
+msgid "Post Name"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:82
+msgid "Copy"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:92
+msgid "Include Score?"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:101
+#: inc/metabox/post_type.php:215 inc/metabox/woo_review.php:61
+msgid "Score"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:115
+msgid "Include Badge?"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:125
+msgid "Badge Label"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:132
+msgid "Badge Label color:"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:142
+msgid "Badge Background-color:"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:155
+#: includes/theme_metabox.php:132
+msgid "Offer sale price"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:165
+#: includes/theme_metabox.php:126
+msgid "Offer old price"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:175
+#: includes/theme_metabox.php:162
+msgid "Button text"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:185
+#: includes/theme_metabox.php:138 includes/theme_metabox.php:274
+msgid "Set coupon code"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:240
+msgid "Read More custom text"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/OfferCardList.js:250
+msgid "Read More Url"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/components/Price.js:36
+msgid "200"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/deprecated.js:32
+#: gutenberg/src/blocks/review-list/offer-listing/Inspector.js:47
+#: gutenberg/src/blocks/review-list/offer-listing/edit.js:75
+#: gutenberg/src/blocks/review-list/schema.js:41
+msgid "Best Values"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/offer-listing/Inspector.js:65
+#: gutenberg/src/blocks/review-list/offer-listing/edit.js:93
+msgid "Disclaimer text...."
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/offer-listing/index.js:19
+msgid "Offer Listing"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/offer-listing/index.js:20
+msgid "Offer Listing description..."
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/post-offer-listing/Inspector.js:25
+#: gutenberg/src/blocks/wc-box/Inspector.js:25
+msgid "Data query"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/post-offer-listing/index.js:18
+msgid "Post Offer Listing"
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/post-offer-listing/index.js:19
+msgid "Post Offer Listing description..."
+msgstr ""
+
+#: gutenberg/src/blocks/review-list/schema.js:60
+msgid "Disclaimer text..."
+msgstr ""
+
+#: gutenberg/src/blocks/slider/index.js:18
+msgid "Slider"
+msgstr ""
+
+#: gutenberg/src/blocks/slider/index.js:19
+msgid "Rehub slider"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:59
+msgid "Versus Line Block"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:70
+msgid "Subheading"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:82
+msgid "Two Column"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:83
+msgid "Three Column"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:92
+msgid "Versus Line Style"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:93
+msgid "Background color (optional)"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:102
+msgid "Text color (optional)"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:112
+msgid "First Column"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:119
+#: gutenberg/src/blocks/versus-table/Inspector.js:176
+#: gutenberg/src/blocks/versus-table/Inspector.js:234
+msgid "Check Icon"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:120
+#: gutenberg/src/blocks/versus-table/Inspector.js:177
+#: gutenberg/src/blocks/versus-table/Inspector.js:235
+msgid "Cross Icon"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:132
+#: gutenberg/src/blocks/versus-table/Inspector.js:189
+#: gutenberg/src/blocks/versus-table/Inspector.js:247
+msgid "Place text"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:158
+msgid "Make column unhighlighted?"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:169
+msgid "Second Column"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:215
+#: gutenberg/src/blocks/versus-table/Inspector.js:273
+msgid "Make first column unhighlighted?"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/Inspector.js:227
+msgid "Third Column"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/VersusItem.js:70
+#: gutenberg/src/components/card-list/index.js:54
+msgid "Value"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/edit.js:44
+#: gutenberg/src/blocks/versus-table/schema.js:9
+msgid "Versus Title"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/edit.js:56
+#: gutenberg/src/blocks/versus-table/schema.js:13
+msgid "Versus subline"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/index.js:18
+msgid "Versus Table"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/index.js:19
+msgid "Table of versus items"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/schema.js:32
+msgid "Value 1"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/schema.js:42
+msgid "Value 2"
+msgstr ""
+
+#: gutenberg/src/blocks/versus-table/schema.js:52
+msgid "Value 3"
+msgstr ""
+
+#: gutenberg/src/blocks/wc-box/components/CtaColumn.js:39
+msgid "Check Deals"
+msgstr ""
+
+#: gutenberg/src/blocks/wc-box/edit.js:80 inc/widgets/dealwoo.php:369
+msgid "Product"
+msgstr ""
+
+#: gutenberg/src/blocks/wc-box/edit.js:84 includes/helper-functions.php:642
+msgid "Specification"
+msgstr ""
+
+#: gutenberg/src/blocks/wc-box/edit.js:89
+msgid "Photos"
+msgstr ""
+
+#: gutenberg/src/blocks/wc-box/edit.js:94
+msgid "Videos"
+msgstr ""
+
+#: gutenberg/src/blocks/wc-box/edit.js:99
+msgid "Deals"
+msgstr ""
+
+#: gutenberg/src/blocks/wc-box/index.js:18
+msgid "WooCommerce Box"
+msgstr ""
+
+#: gutenberg/src/blocks/wc-box/index.js:19
+msgid "Select a WooCommerce product"
+msgstr ""
+
+#: gutenberg/src/blocks/wc-box/schema.js:68
+msgid "Add to cart"
+msgstr ""
+
+#: gutenberg/src/components/ColorPaletteControl.js:21
+#, javascript-format
+msgid "(current %s: %s)"
+msgstr ""
+
+#: gutenberg/src/components/IconPopover/index.js:99
+msgid "Type to search icon"
+msgstr ""
+
+#: gutenberg/src/components/IconPopover/index.js:108
+#: gutenberg/src/components/IconPopover/index.js:129
+msgid "Reset"
+msgstr ""
+
+#: gutenberg/src/components/PostSelect.js:58
+msgid "Select a Post"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:249
+msgid "Date"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:250
+msgid "ID"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:251
+msgid "Author"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:253
+msgid "Modified"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:254
+msgid "Random"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:255
+msgid "Comment count"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:256
+msgid "Menu order"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:260
+msgid "Ascending"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:261
+msgid "Descending"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:268
+msgid "Post Count"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:274
+msgid "How many teasers to show? Enter number, -1 for All."
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:284
+msgid "Order By"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:289
+msgid "Select how to sort retrieved posts. More at"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:293
+msgid "WordPress codex page"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:298
+msgid "Order"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:302
+msgid "Designates the ascending or descending order"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:306 inc/widgets/top_offers.php:103
+#: inc/widgets/woocategory.php:206
+msgid "Posts"
+msgstr ""
+
+#: gutenberg/src/components/QueryControl.js:307
+msgid "Filter output by custom Post, enter post names here"
+msgstr ""
+
+#: gutenberg/src/components/SSR.js:116
+msgid "Block rendered as empty."
+msgstr ""
+
+#: gutenberg/src/components/SSR.js:129
+#, javascript-format
+msgid "Error loading block: %s"
+msgstr ""
+
+#: gutenberg/src/components/WooQuery.js:126
+msgid "Data source"
+msgstr ""
+
+#: gutenberg/src/components/WooQuery.js:128
+msgid "Category"
+msgstr ""
+
+#: gutenberg/src/components/WooQuery.js:129
+msgid "Tag"
+msgstr ""
+
+#: gutenberg/src/components/WooQuery.js:130
+msgid "Manual Select and Order"
+msgstr ""
+
+#: gutenberg/src/components/WooQuery.js:131
+msgid "Type Of Products"
+msgstr ""
+
+#: gutenberg/src/components/WooQuery.js:132
+msgid "Auto detect archive data"
+msgstr ""
+
+#: gutenberg/src/components/advanced-toolbar-control/index.js:28
+msgid "Align Left"
+msgstr ""
+
+#: gutenberg/src/components/advanced-toolbar-control/index.js:33
+#: gutenberg/src/components/advanced-toolbar-control/index.js:51
+#: gutenberg/src/components/advanced-toolbar-control/index.js:74
+msgid "Align Center"
+msgstr ""
+
+#: gutenberg/src/components/advanced-toolbar-control/index.js:38
+msgid "Align Right"
+msgstr ""
+
+#: gutenberg/src/components/advanced-toolbar-control/index.js:46
+#: gutenberg/src/components/advanced-toolbar-control/index.js:69
+msgid "Align Top"
+msgstr ""
+
+#: gutenberg/src/components/advanced-toolbar-control/index.js:56
+#: gutenberg/src/components/advanced-toolbar-control/index.js:79
+msgid "Align Bottom"
+msgstr ""
+
+#: gutenberg/src/components/advanced-toolbar-control/index.js:61
+msgid "Stretch"
+msgstr ""
+
+#: gutenberg/src/components/cons-pros/inspector.js:24
+#: gutenberg/src/components/cons-pros/inspector.js:35
+msgid "Positives"
+msgstr ""
+
+#: gutenberg/src/components/cons-pros/inspector.js:26
+msgid "Pros Title"
+msgstr ""
+
+#: gutenberg/src/components/cons-pros/inspector.js:58
+msgid "Cons Title"
+msgstr ""
+
+#: gutenberg/src/components/coupon/index.js:84
+msgid "code_of_coupon"
+msgstr ""
+
+#: gutenberg/src/components/heading-buttons-control/index.js:24
+#: gutenberg/src/components/heading-buttons-control/index.js:29
+#: gutenberg/src/components/heading-buttons-control/index.js:34
+#: gutenberg/src/components/heading-buttons-control/index.js:39
+#: gutenberg/src/components/heading-buttons-control/index.js:44
+#: gutenberg/src/components/heading-buttons-control/index.js:49
+#, javascript-format
+msgid "%s %d"
+msgstr ""
+
+#: gutenberg/src/components/heading-buttons-control/index.js:68
+#, javascript-format
+msgid "%s HTML Tag"
+msgstr ""
+
+#: gutenberg/src/components/image-control/index.js:79
+msgid "preview"
+msgstr ""
+
+#: gutenberg/src/components/url-input-popover/index.js:17
+msgid "Show more tools & options"
+msgstr ""
+
+#: gutenberg/src/components/url-input-popover/index.js:18
+msgid "Hide more tools & options"
+msgstr ""
+
+#: gutenberg/src/components/url-input-popover/index.js:64
+msgid "Paste or type URL"
+msgstr ""
+
+#: gutenberg/src/components/url-input-popover/index.js:79
+msgid "Open link in new tab"
+msgstr ""
+
+#: gutenberg/src/components/url-input-popover/index.js:86
+msgid "Nofollow link"
+msgstr ""
+
+#: gutenberg/src/components/url-input-popover/index.js:93
+msgid "Open link in modal"
+msgstr ""
+
+#: gutenberg/src/components/url-input-popover/index.js:104
+msgid "Modal ID"
+msgstr ""
+
+#: inc/metabox/page_option.php:7 inc/metabox/visual_builder.php:7
+msgid "Page options"
+msgstr ""
+
+#: inc/metabox/page_option.php:15 inc/metabox/visual_builder.php:45
+msgid "Type of content area"
+msgstr ""
+
+#: inc/metabox/page_option.php:20
+msgid "Content with sidebar"
+msgstr ""
+
+#: inc/metabox/page_option.php:24
+msgid "Full Width Content Box"
+msgstr ""
+
+#: inc/metabox/page_option.php:28 inc/metabox/visual_builder.php:58
+msgid "Full width of browser window"
+msgstr ""
+
+#: inc/metabox/page_option.php:38 inc/metabox/visual_builder.php:15
+msgid "How to show header?"
+msgstr ""
+
+#: inc/metabox/page_option.php:43 inc/metabox/visual_builder.php:20
+msgid "Default"
+msgstr ""
+
+#: inc/metabox/page_option.php:47 inc/metabox/visual_builder.php:24
+msgid "Disable header"
+msgstr ""
+
+#: inc/metabox/page_option.php:51 inc/metabox/visual_builder.php:28
+msgid "Transparent"
+msgstr ""
+
+#: inc/metabox/page_option.php:58
+msgid "Disable title"
+msgstr ""
+
+#: inc/metabox/page_option.php:63
+msgid "Enable preloader"
+msgstr ""
+
+#: inc/metabox/page_option.php:68
+msgid "Enable comments"
+msgstr ""
+
+#: inc/metabox/page_option.php:73 inc/metabox/visual_builder.php:35
+msgid "Disable menu"
+msgstr ""
+
+#: inc/metabox/page_option.php:78 inc/metabox/visual_builder.php:40
+msgid "Disable footer"
+msgstr ""
+
+#: inc/metabox/page_option.php:83 inc/metabox/visual_builder.php:68
+msgid "Disable default background image"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:7
+msgid "Comparison chart settings"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:14
+msgid "Enter post ids for comparison"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:15
+msgid "Set with comma without spaces, example: 2,34,67,88"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:20
+msgid ""
+"Enter name of custom post type or leave blank (default, post). For "
+"woocommerce - type \"product\""
+msgstr ""
+
+#: inc/metabox/page_topchart.php:27
+msgid "Row"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:32
+msgid "Set heading name for row"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:37 inc/metabox/page_toptable.php:284
+msgid "Select generated content:"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:41
+msgid "Row heading"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:45
+msgid "Thumbnail with title"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:49
+msgid "Thumbnail with title, review score, button and price"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:57
+msgid "Short description"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:61
+msgid "Meta value"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:65
+msgid "Taxonomy value / Woocommerce attribute"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:69
+msgid "Editor's Review score"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:73
+msgid "User stars rating"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:77 inc/metabox/page_toptable.php:304
+msgid "Static User stars rating (based on full user reviews)"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:81
+msgid "Link on post review"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:85
+msgid "Review Criterias (Editor)"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:89
+msgid "Affiliate button"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:93 inc/metabox/page_toptable.php:312
+msgid "Woocommerce attribute by slug"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:97 inc/metabox/page_toptable.php:316
+msgid "Woocommerce review score"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:101 inc/metabox/page_toptable.php:320
+msgid "Woocommerce button with price"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:105 inc/metabox/page_toptable.php:324
+msgid "Woocommerce vendor"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:109 inc/metabox/page_topchart.php:347
+#: inc/metabox/page_topchart.php:348 inc/metabox/page_toptable.php:570
+#: inc/metabox/page_toptable.php:571 includes/taxonomy_cpt.php:371
+#: includes/theme_metabox.php:361 includes/theme_metabox.php:1035
+msgid "Shortcode"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:116 inc/options/option.php:1480
+#: inc/options/option.php:2743
+msgid "Note"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:117
+msgid ""
+"By default button will grab data from product review, but you can set your "
+"own meta names where data are stored"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:127
+msgid "Insert button text or leave blank"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:136
+msgid "Insert meta value where affiliate url is stored"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:145
+msgid "Insert meta value where affiliate price is stored"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:154 inc/metabox/page_toptable.php:72
+#: inc/metabox/page_toptable.php:502
+msgid "Enter taxonomy slug"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:155
+msgid ""
+"Enter slug of your taxonomy. If you want to get woocommerce attribute, "
+"enable checkbox below."
+msgstr ""
+
+#: inc/metabox/page_topchart.php:164 inc/metabox/page_toptable.php:468
+msgid "Enter attribute slug"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:165 inc/metabox/page_toptable.php:469
+msgid "Enter slug of your woocommerce attribute."
+msgstr ""
+
+#: inc/metabox/page_topchart.php:174
+msgid "Is this woocommerce attribute?"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:184 inc/metabox/page_toptable.php:220
+msgid "Enable link on affiliate product from thumbnail?"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:194
+msgid "Enable link on affiliate product from title?"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:204
+msgid "Enable sticky on scroll in this row (expiremental)?"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:214
+msgid "Enable checkbox for dynamic differences?"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:230
+msgid "Value from custom field"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:235 inc/metabox/page_toptable.php:345
+msgid "Type of meta value"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:239 inc/metabox/page_toptable.php:349
+msgid "Text value"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:243 inc/metabox/page_toptable.php:353
+msgid "Checkbox (true or false)"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:247
+msgid "ACF multichoice field"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:255
+msgid "Key (slug) of custom field"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:256
+msgid "Find some important"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:256
+msgid "meta keys"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:261 inc/metabox/page_toptable.php:512
+msgid "Prefix for field"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:266 inc/metabox/page_toptable.php:521
+msgid "Postfix for field"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:271 inc/metabox/page_toptable.php:382
+msgid "Customize font size and colors of column?"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:277 inc/metabox/page_toptable.php:388
+msgid "Meta Value Font size"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:278 inc/metabox/page_toptable.php:389
+#: inc/metabox/page_toptable.php:415 inc/metabox/page_toptable.php:441
+msgid "Default - 15px"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:291 inc/metabox/page_toptable.php:402
+msgid "Meta Value Font Color"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:292 inc/metabox/page_toptable.php:403
+#: inc/metabox/page_toptable.php:429 inc/metabox/page_toptable.php:455
+msgid "Default - #111111"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:305 inc/metabox/page_toptable.php:478
+msgid "Design of rating"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:313 inc/metabox/page_toptable.php:486
+msgid "Simple text"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:317 inc/metabox/page_toptable.php:490
+msgid "Circle design"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:321
+msgid "Star design"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:329
+msgid "Enter shortcode"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:330
+msgid "Enter shortcode value. Example, [shortcode]"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:341
+msgid "Make page full width?"
+msgstr ""
+
+#: inc/metabox/page_topchart.php:357
+msgid ""
+"If enabled - content of chart will be inserted on page only by shortcode "
+"above"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:7
+msgid "Top table settings"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:14
+msgid "Choose by"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:18
+msgid "Category and/or tag"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:22
+msgid "Manual select and order"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:26
+msgid "Custom post type or woocommerce product"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:34
+msgid "Choose category"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:35
+msgid "Choose the category that you'd like to include to top review page"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:53 inc/metabox/page_toptable.php:54
+msgid "Choose custom post type"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:73
+msgid ""
+"Enter slug of your taxonomy. Example, taxonomy for product category - is "
+"product_cat. Or leave blank"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:82 inc/metabox/page_toptable.php:102
+msgid "Show posts by taxonomy slug"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:83 inc/metabox/page_toptable.php:103
+msgid ""
+"Enter slug of your taxonomy if you want to show only posts from certain "
+"category of your taxonomy (from field above) or leave blank"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:92
+msgid "Enter second taxonomy slug"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:93
+msgid ""
+"Enter slug of your taxonomy. Example, taxonomy for product tags - is "
+"product_tag. Or leave blank"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:112
+msgid "Enter tag"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:113
+msgid "Leave blank or set tag of posts"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:122
+msgid "Fetch Count"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:123
+msgid "How much posts you'd like to display?"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:134
+msgid "Choose posts"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:135
+msgid "Choose posts and order"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:153
+msgid "Base of sorting"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:154
+msgid ""
+"By default all posts are sorting by date. But you can set name of custom "
+"field for sorting. Important! If you want to show only posts with reviews - "
+"set name <strong>rehub_review_overall_score</strong>"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:160
+msgid "Order of sorting:"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:164
+msgid "from highest to lowest"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:168
+msgid "from lowest to highest"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:178
+msgid "Enable pagination?"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:185
+msgid "Set your content below"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:186
+msgid "Do not use more than 6 columns"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:193
+msgid "Enable first column with thumbnail?"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:200
+msgid "Set heading name for first column"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:201
+msgid "By default - Product"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:210
+msgid "Enable rank on thumbnail?"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:230
+msgid "Set image width (without px) or leave blank (default is 120px)"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:239
+msgid "Set image height (without px) or leave blank (default is 120px)"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:248
+msgid "By default, crop is enabled"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:256
+msgid "Column"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:261
+msgid "Set heading name for column"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:266
+msgid "Insert html and shortcode function"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:271
+msgid "Possible shortcodes functions"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:278
+msgid "Enable center alignment in column?"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:288
+msgid "Set or single meta value"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:292
+msgid "Taxonomy value"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:296
+msgid "Review score"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:300
+msgid "Dynamic User stars rating"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:308
+msgid "No generated content"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:340
+msgid "Value from custom field or attribute"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:357
+msgid "Woocommerce attribute"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:365
+msgid "Name (slug) of field"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:370
+msgid "Label before value"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:371
+msgid "Set label before value or leave blank"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:376
+msgid "Label after value"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:377
+msgid "Set label after value or leave blank"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:414
+msgid "Label Font size"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:428
+msgid "Label Font Color"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:440
+msgid "Icon Font size"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:454
+msgid "Icon Font Color"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:494
+msgid "Square design"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:503
+msgid "Enter slug of your taxonomy. Example, taxonomy for posts - is category."
+msgstr ""
+
+#: inc/metabox/page_toptable.php:535
+msgid "Enable last column with button?"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:542
+msgid "Set heading name for last column"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:543
+msgid "By default - empty"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:552
+msgid "Insert content after block"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:553
+msgid "Add content which you want to display after module or leave blank"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:558
+msgid "Disable table filters?"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:564
+msgid "Full width?"
+msgstr ""
+
+#: inc/metabox/page_toptable.php:580
+msgid ""
+"If enabled - content of table will be inserted on page only by shortcode "
+"above"
+msgstr ""
+
+#: inc/metabox/post_type.php:8
+msgid "Post Type"
+msgstr ""
+
+#: inc/metabox/post_type.php:15
+msgid "Choose Type of Post"
+msgstr ""
+
+#: inc/metabox/post_type.php:20
+msgid "Regular"
+msgstr ""
+
+#: inc/metabox/post_type.php:25
+msgid "Video"
+msgstr ""
+
+#: inc/metabox/post_type.php:30
+msgid "Gallery"
+msgstr ""
+
+#: inc/metabox/post_type.php:35
+msgid "Review"
+msgstr ""
+
+#: inc/metabox/post_type.php:40
+msgid "Music"
+msgstr ""
+
+#: inc/metabox/post_type.php:54
+msgid "Video Post"
+msgstr ""
+
+#: inc/metabox/post_type.php:64
+msgid "Insert youtube or vimeo link on page with video"
+msgstr ""
+
+#: inc/metabox/post_type.php:65 inc/metabox/post_type.php:142
+msgid "Video Url"
+msgstr ""
+
+#: inc/metabox/post_type.php:70
+msgid "Auto thumbnail"
+msgstr ""
+
+#: inc/metabox/post_type.php:71
+msgid "Enable auto featured image from video (will not work on some servers)"
+msgstr ""
+
+#: inc/metabox/post_type.php:76
+msgid "Enable schema.org for video?"
+msgstr ""
+
+#: inc/metabox/post_type.php:77
+msgid "Check this box if you want to enable videoobject schema"
+msgstr ""
+
+#: inc/metabox/post_type.php:83
+msgid "Set title of video block or leave blank to use post title"
+msgstr ""
+
+#: inc/metabox/post_type.php:94
+msgid "Set description of video block or leave blank to use post excerpt"
+msgstr ""
+
+#: inc/metabox/post_type.php:109
+msgid "Gallery Post"
+msgstr ""
+
+#: inc/metabox/post_type.php:119
+msgid "Disable height resize for slider"
+msgstr ""
+
+#: inc/metabox/post_type.php:120
+msgid ""
+"This option disable resize of photo. By default, photos are resized for 400 "
+"px height"
+msgstr ""
+
+#: inc/metabox/post_type.php:131
+msgid "Add Image"
+msgstr ""
+
+#: inc/metabox/post_type.php:136
+msgid "Caption"
+msgstr ""
+
+#: inc/metabox/post_type.php:141
+msgid ""
+"Insert youtube link of page with video. If you set this field, image and "
+"caption will be ignored for this slide"
+msgstr ""
+
+#: inc/metabox/post_type.php:165
+msgid "Short review heading (e.g. Excellent!)"
+msgstr ""
+
+#: inc/metabox/post_type.php:170
+msgid "Summary Text"
+msgstr ""
+
+#: inc/metabox/post_type.php:175 inc/metabox/woo_review.php:39
+msgid "PROS. Place each from separate line (optional)"
+msgstr ""
+
+#: inc/metabox/post_type.php:180 inc/metabox/woo_review.php:44
+msgid "CONS. Place each from separate line (optional)"
+msgstr ""
+
+#: inc/metabox/post_type.php:186 inc/metabox/woo_review.php:71
+msgid "Enable shortcode inserting"
+msgstr ""
+
+#: inc/metabox/post_type.php:187
+msgid ""
+"If enable you can insert review box in any place of content with shortcode "
+"[review]. If disable - it will be after content."
+msgstr ""
+
+#: inc/metabox/post_type.php:193 inc/metabox/woo_review.php:20
+msgid "Set overall score"
+msgstr ""
+
+#: inc/metabox/post_type.php:194 inc/metabox/woo_review.php:21
+msgid ""
+"Enter overall score of review or leave blank to auto calculation based on "
+"criterias score"
+msgstr ""
+
+#: inc/metabox/post_type.php:205 inc/metabox/woo_review.php:51
+msgid "Review Criterias"
+msgstr ""
+
+#: inc/metabox/post_type.php:210 inc/metabox/woo_review.php:56
+msgid "Name"
+msgstr ""
+
+#: inc/metabox/post_type.php:231
+msgid "Music Post"
+msgstr ""
+
+#: inc/metabox/post_type.php:240
+msgid "Music Source"
+msgstr ""
+
+#: inc/metabox/post_type.php:244
+msgid "Music from Soundcloud"
+msgstr ""
+
+#: inc/metabox/post_type.php:248
+msgid "Music from Spotify"
+msgstr ""
+
+#: inc/metabox/post_type.php:256
+msgid "Insert full Soundcloud embed code."
+msgstr ""
+
+#: inc/metabox/post_type.php:257
+msgid "Soundcloud embed code"
+msgstr ""
+
+#: inc/metabox/post_type.php:266
+msgid ""
+"To get the Spotify Song URI go to <strong>Spotify</strong> > Right click on "
+"the song you want to embed > Click <strong>Copy Spotify URI</strong> > Paste "
+"code in this field.)"
+msgstr ""
+
+#: inc/metabox/post_type.php:267
+msgid "Spotify Song URI"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:9
+msgid "Post settings"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:18
+msgid "Custom notice"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:19
+msgid "Will be used as custom notice, for example, for cashback"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:26 inc/options/option.php:263
+msgid "Post layout"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:41
+msgid "Post w/ sidebar or Full width"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:46
+msgid "Post w/ Sidebar"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:50
+msgid "Full Width Post"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:60
+msgid "Disable Top Image"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:61
+msgid ""
+"Check this box to disable Featured Image, Video or Gallery in top part on "
+"post page"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:67
+msgid "Disable global parts?"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:68
+msgid ""
+"Check this box to disable tags, breadcrumbs, author box, share buttons in "
+"post"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:74
+msgid "Disable global ads in post"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:85
+msgid "Search on amazon keyword"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:86 inc/metabox/post_type_side.php:93
+msgid "Will be used in top offer block"
+msgstr ""
+
+#: inc/metabox/post_type_side.php:92
+msgid "Search on ebay keyword"
+msgstr ""
+
+#: inc/metabox/visual_builder.php:50
+msgid "Default content box"
+msgstr ""
+
+#: inc/metabox/visual_builder.php:54
+msgid "Content box without border"
+msgstr ""
+
+#: inc/metabox/woo_review.php:7
+msgid "Editor Review"
+msgstr ""
+
+#: inc/metabox/woo_review.php:14
+msgid "Add Image to review"
+msgstr ""
+
+#: inc/metabox/woo_review.php:15
+msgid ""
+"In Full width Photo Layout, this image will be visible in top section. In "
+"other layouts - in review box"
+msgstr ""
+
+#: inc/metabox/woo_review.php:34
+msgid "Summary Text (optional)"
+msgstr ""
+
+#: inc/metabox/woo_review.php:72
+msgid ""
+"If enable you can insert review box in any place of content with shortcode "
+"[wpsm_reviewbox regular=1]. If disable - it will be after content."
+msgstr ""
+
+#: inc/options/option.php:21 includes/customizer.php:155
+#: includes/option_functions.php:21 includes/option_functions.php:22
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options/option.php:26 inc/options/option.php:32
+msgid "General Options"
+msgstr ""
+
+#: inc/options/option.php:37
+msgid "Select Archive Layout"
+msgstr ""
+
+#: inc/options/option.php:38
+msgid "Select what kind of post string layout you want to use for archives"
+msgstr ""
+
+#: inc/options/option.php:42 inc/options/option.php:110
+#: inc/options/option.php:178
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/options/option.php:46 inc/options/option.php:114
+#: inc/options/option.php:182
+msgid "Simple News List"
+msgstr ""
+
+#: inc/options/option.php:50 inc/options/option.php:118
+#: inc/options/option.php:186
+msgid "Community List"
+msgstr ""
+
+#: inc/options/option.php:54 inc/options/option.php:122
+#: inc/options/option.php:190 inc/options/option.php:1789
+#: includes/customizer.php:1360
+msgid "Deal List"
+msgstr ""
+
+#: inc/options/option.php:58 inc/options/option.php:126
+#: inc/options/option.php:194
+msgid "Masonry Grid layout"
+msgstr ""
+
+#: inc/options/option.php:62 inc/options/option.php:130
+#: inc/options/option.php:198
+msgid "Equal height Grid layout"
+msgstr ""
+
+#: inc/options/option.php:66 inc/options/option.php:134
+#: inc/options/option.php:202
+msgid "Compact deal grid layout"
+msgstr ""
+
+#: inc/options/option.php:70 inc/options/option.php:138
+#: inc/options/option.php:206
+msgid "Deal Grid layout"
+msgstr ""
+
+#: inc/options/option.php:74 inc/options/option.php:142
+#: inc/options/option.php:210 inc/options/option.php:441
+msgid "Cards"
+msgstr ""
+
+#: inc/options/option.php:78 inc/options/option.php:146
+#: inc/options/option.php:214
+msgid "Full width Deal Grid layout"
+msgstr ""
+
+#: inc/options/option.php:82 inc/options/option.php:150
+#: inc/options/option.php:218
+msgid "Full width compact deal grid layout"
+msgstr ""
+
+#: inc/options/option.php:86 inc/options/option.php:154
+#: inc/options/option.php:222
+msgid "Equal height Full width Grid layout"
+msgstr ""
+
+#: inc/options/option.php:90 inc/options/option.php:158
+#: inc/options/option.php:226
+msgid "Full width Masonry Grid layout"
+msgstr ""
+
+#: inc/options/option.php:94 inc/options/option.php:162
+#: inc/options/option.php:230
+msgid "Cards Full width"
+msgstr ""
+
+#: inc/options/option.php:105
+msgid "Select Category Layout"
+msgstr ""
+
+#: inc/options/option.php:106
+msgid "Select what kind of post string layout you want to use for categories"
+msgstr ""
+
+#: inc/options/option.php:173
+msgid "Select Search Layout"
+msgstr ""
+
+#: inc/options/option.php:174
+msgid "Select what kind of post string layout you want to use for search pages"
+msgstr ""
+
+#: inc/options/option.php:240
+msgid "Select pagination type for categories"
+msgstr ""
+
+#: inc/options/option.php:241
+msgid ""
+"Choose number of posts per page in Settings - Reading settings. Recommended "
+"number - 12"
+msgstr ""
+
+#: inc/options/option.php:245
+msgid "Simple Pagination"
+msgstr ""
+
+#: inc/options/option.php:249
+msgid "Infinite scroll"
+msgstr ""
+
+#: inc/options/option.php:253
+msgid "Next page button"
+msgstr ""
+
+#: inc/options/option.php:280 includes/customizer.php:175
+msgid "Select Width Style"
+msgstr ""
+
+#: inc/options/option.php:284 includes/customizer.php:179
+msgid "Regular (1200px)"
+msgstr ""
+
+#: inc/options/option.php:288 includes/customizer.php:180
+msgid "Extended (1530px)"
+msgstr ""
+
+#: inc/options/option.php:292
+msgid "Compact (adsense banners optimized)"
+msgstr ""
+
+#: inc/options/option.php:302 includes/customizer.php:192
+msgid "Select theme subset"
+msgstr ""
+
+#: inc/options/option.php:306 includes/customizer.php:196
+msgid "Clean Rehub"
+msgstr ""
+
+#: inc/options/option.php:310
+msgid "Redigit for digital products"
+msgstr ""
+
+#: inc/options/option.php:314
+msgid "Redeal (Big buttons in header)"
+msgstr ""
+
+#: inc/options/option.php:318
+msgid "Redirect (Full width header)"
+msgstr ""
+
+#: inc/options/option.php:322
+msgid "Rething (big masonry grid)"
+msgstr ""
+
+#: inc/options/option.php:326
+msgid "Repick (big grid items)"
+msgstr ""
+
+#: inc/options/option.php:330
+msgid "Recash"
+msgstr ""
+
+#: inc/options/option.php:340
+msgid "Category filter panel"
+msgstr ""
+
+#: inc/options/option.php:346
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/options/option.php:347
+msgid "Write your custom CSS here"
+msgstr ""
+
+#: inc/options/option.php:352
+msgid "Js code for footer"
+msgstr ""
+
+#: inc/options/option.php:353 inc/options/option_additional.php:171
+msgid "Enter your Analytics code or any html, js code"
+msgstr ""
+
+#: inc/options/option.php:358
+msgid "Js code for header (analytics)"
+msgstr ""
+
+#: inc/options/option.php:364
+msgid "Additional Blog/News Area"
+msgstr ""
+
+#: inc/options/option.php:369
+msgid "Enable separate blog post type"
+msgstr ""
+
+#: inc/options/option.php:370 inc/options/option.php:2071
+msgid "When enabled, save permalinks in Settings - Permalinks"
+msgstr ""
+
+#: inc/options/option.php:376
+msgid "Single page Blog layout"
+msgstr ""
+
+#: inc/options/option.php:397
+msgid ""
+"Set custom blog permalink slug for Blog. Update permalinks after this in "
+"Settings - permalinks"
+msgstr ""
+
+#: inc/options/option.php:406
+msgid ""
+"Set custom blog permalink slug for Blog Category. Update permalinks after "
+"this in Settings - permalinks"
+msgstr ""
+
+#: inc/options/option.php:415
+msgid ""
+"Set custom blog permalink slug for Blog Tag. Update permalinks after this in "
+"Settings - permalinks"
+msgstr ""
+
+#: inc/options/option.php:424
+msgid "Select Blog Archive Layout"
+msgstr ""
+
+#: inc/options/option.php:425
+msgid ""
+"Select what kind of post string layout you want to use for blog  archives"
+msgstr ""
+
+#: inc/options/option.php:429
+msgid "Big images Blog Layout"
+msgstr ""
+
+#: inc/options/option.php:433
+msgid "List Layout with left thumbnails"
+msgstr ""
+
+#: inc/options/option.php:437
+msgid "Grid layout"
+msgstr ""
+
+#: inc/options/option.php:445
+msgid "Full width Cards"
+msgstr ""
+
+#: inc/options/option.php:449
+msgid "Full width Grid layout"
+msgstr ""
+
+#: inc/options/option.php:465 includes/customizer.php:163
+msgid "Appearance/Color"
+msgstr ""
+
+#: inc/options/option.php:471
+msgid "Color schema of website"
+msgstr ""
+
+#: inc/options/option.php:476 includes/customizer.php:207
+msgid "Main Highlight color"
+msgstr ""
+
+#: inc/options/option.php:477 includes/customizer.php:208
+msgid "Color to highlight items"
+msgstr ""
+
+#: inc/options/option.php:484 includes/customizer.php:219
+msgid "Secondary color"
+msgstr ""
+
+#: inc/options/option.php:485 includes/customizer.php:220
+msgid "Color for system forms (for search buttons, tabs, etc)"
+msgstr ""
+
+#: inc/options/option.php:492
+msgid "Background hightlight color"
+msgstr ""
+
+#: inc/options/option.php:493 includes/customizer.php:231
+msgid ""
+"Color for background on extended layouts. Leave empty to use main Highlight "
+"color"
+msgstr ""
+
+#: inc/options/option.php:499
+msgid "Offer buttons color"
+msgstr ""
+
+#: inc/options/option.php:506
+msgid "Offer button hover color"
+msgstr ""
+
+#: inc/options/option.php:512
+msgid "Offer button text color"
+msgstr ""
+
+#: inc/options/option.php:519
+msgid "Offer button Hover text color"
+msgstr ""
+
+#: inc/options/option.php:525
+msgid "Enable smooth design for buttons?"
+msgstr ""
+
+#: inc/options/option.php:529 includes/option_helpers.php:324
+msgid "No"
+msgstr ""
+
+#: inc/options/option.php:533 includes/customizer.php:293
+msgid "Rounded"
+msgstr ""
+
+#: inc/options/option.php:537 includes/customizer.php:294
+msgid "Soft Rounded"
+msgstr ""
+
+#: inc/options/option.php:547 includes/customizer.php:276
+msgid "Custom color for links inside posts"
+msgstr ""
+
+#: inc/options/option.php:554
+msgid "Layout settings"
+msgstr ""
+
+#: inc/options/option.php:559 inc/options/option.php:1755
+#: includes/customizer.php:304 includes/customizer.php:1335
+msgid "Set sidebar to left side?"
+msgstr ""
+
+#: inc/options/option.php:565 includes/customizer.php:320
+msgid "Enable boxed version?"
+msgstr ""
+
+#: inc/options/option.php:571 includes/customizer.php:336
+msgid "Disable box borders under content box?"
+msgstr ""
+
+#: inc/options/option.php:577 includes/customizer.php:366
+msgid "Background Color"
+msgstr ""
+
+#: inc/options/option.php:578
+msgid "Choose the background color"
+msgstr ""
+
+#: inc/options/option.php:584
+msgid "Dark theme"
+msgstr ""
+
+#: inc/options/option.php:585
+msgid "Use it if you need white text on dark background"
+msgstr ""
+
+#: inc/options/option.php:591 includes/customizer.php:376
+msgid "Background Image"
+msgstr ""
+
+#: inc/options/option.php:592
+msgid ""
+"Upload a background image. Works only if you set also background color above"
+msgstr ""
+
+#: inc/options/option.php:598 inc/options/option.php:1067
+#: inc/options/option.php:1337 includes/customizer.php:389
+#: includes/customizer.php:942 includes/customizer.php:1237
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/options/option.php:602 inc/options/option.php:1071
+#: inc/options/option.php:1341 includes/customizer.php:393
+#: includes/customizer.php:946 includes/customizer.php:1242
+msgid "Repeat"
+msgstr ""
+
+#: inc/options/option.php:606 inc/options/option.php:1075
+#: inc/options/option.php:1345 includes/customizer.php:394
+#: includes/customizer.php:947 includes/customizer.php:1243
+msgid "No Repeat"
+msgstr ""
+
+#: inc/options/option.php:610 inc/options/option.php:1079
+#: inc/options/option.php:1349 includes/customizer.php:395
+#: includes/customizer.php:948 includes/customizer.php:1244
+msgid "Repeat X"
+msgstr ""
+
+#: inc/options/option.php:614 inc/options/option.php:1083
+#: inc/options/option.php:1353 includes/customizer.php:396
+#: includes/customizer.php:949 includes/customizer.php:1245
+msgid "Repeat Y"
+msgstr ""
+
+#: inc/options/option.php:624 inc/options/option.php:1091
+#: inc/options/option.php:1361 includes/customizer.php:406
+#: includes/customizer.php:959 includes/customizer.php:1254
+msgid "Background Position"
+msgstr ""
+
+#: inc/options/option.php:643 includes/customizer.php:423
+msgid "Fixed Background Image?"
+msgstr ""
+
+#: inc/options/option.php:644
+msgid "The background is fixed with regard to the viewport."
+msgstr ""
+
+#: inc/options/option.php:649 includes/customizer.php:438
+msgid "Url for branded background"
+msgstr ""
+
+#: inc/options/option.php:650 includes/customizer.php:439
+msgid "Insert url that will be display on background"
+msgstr ""
+
+#: inc/options/option.php:659
+msgid "Logo & favicon"
+msgstr ""
+
+#: inc/options/option.php:665
+msgid "Logo settings"
+msgstr ""
+
+#: inc/options/option.php:670 includes/customizer.php:455
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/options/option.php:671 includes/customizer.php:456
+msgid ""
+"Upload your logo. Max width is 450px. (1200px for full width, 180px for logo "
+"+ menu row layout)"
+msgstr ""
+
+#: inc/options/option.php:678 includes/customizer.php:515
+msgid "Upload Logo (retina version)"
+msgstr ""
+
+#: inc/options/option.php:679
+msgid ""
+"Upload retina version of the logo. It should be 2x the size of main logo. "
+"Then, set regular logo width and height in fields below"
+msgstr ""
+
+#: inc/options/option.php:685 includes/customizer.php:526
+msgid "Logo width"
+msgstr ""
+
+#: inc/options/option.php:686 includes/customizer.php:527
+msgid "Please, enter logo width (without px)"
+msgstr ""
+
+#: inc/options/option.php:691
+msgid "Logo height"
+msgstr ""
+
+#: inc/options/option.php:692 includes/customizer.php:539
+msgid "Please, enter logo height (without px)"
+msgstr ""
+
+#: inc/options/option.php:697 includes/customizer.php:550
+msgid "Text logo"
+msgstr ""
+
+#: inc/options/option.php:698 includes/customizer.php:551
+msgid "You can type text logo. Use this field only if no image logo"
+msgstr ""
+
+#: inc/options/option.php:703 includes/customizer.php:561
+msgid "Slogan"
+msgstr ""
+
+#: inc/options/option.php:704 includes/customizer.php:562
+msgid ""
+"You can type slogan below text logo. Use this field only if no image logo"
+msgstr ""
+
+#: inc/options/option.php:711 includes/customizer.php:572
+msgid "Header and Menu"
+msgstr ""
+
+#: inc/options/option.php:717
+msgid "Main Header Options"
+msgstr ""
+
+#: inc/options/option.php:722
+msgid "Select Header Layout"
+msgstr ""
+
+#: inc/options/option.php:723
+msgid "Code for code zone can be added in Theme option - Ads and Code zones"
+msgstr ""
+
+#: inc/options/option.php:727 includes/customizer.php:595
+msgid "Shop/Comparison header (logo + search + login + cart/compare icon)"
+msgstr ""
+
+#: inc/options/option.php:731 includes/customizer.php:593
+msgid "Customizable header"
+msgstr ""
+
+#: inc/options/option.php:735 includes/customizer.php:592
+msgid "Logo + menu in one row"
+msgstr ""
+
+#: inc/options/option.php:739 includes/customizer.php:588
+msgid "Logo + code zone 468X60 + search box"
+msgstr ""
+
+#: inc/options/option.php:743 includes/customizer.php:589
+msgid "Logo + slogan + search box"
+msgstr ""
+
+#: inc/options/option.php:747 includes/customizer.php:596
+msgid "Centered logo + menu in left + shop, comparison, login icon in right"
+msgstr ""
+
+#: inc/options/option.php:751 includes/customizer.php:594
+msgid "Just Logo on center and code zone below"
+msgstr ""
+
+#: inc/options/option.php:755 includes/customizer.php:590
+msgid "Clean code zone and regular menu"
+msgstr ""
+
+#: inc/options/option.php:759 includes/customizer.php:591
+msgid "Clean code zone and custom menu"
+msgstr ""
+
+#: inc/options/option.php:769
+msgid "Set padding from top and bottom (without px)"
+msgstr ""
+
+#: inc/options/option.php:770 includes/customizer.php:865
+msgid ""
+"This will add custom padding from top and bottom for all custom elements in "
+"logo section. Default is 15"
+msgstr ""
+
+#: inc/options/option.php:775 includes/customizer.php:608
+msgid "Enable Compare Icon"
+msgstr ""
+
+#: inc/options/option.php:785 includes/customizer.php:621
+msgid "Label for compare icon"
+msgstr ""
+
+#: inc/options/option.php:794 includes/customizer.php:632
+msgid "Enable Cart Icon"
+msgstr ""
+
+#: inc/options/option.php:804 includes/customizer.php:646
+msgid "Enable Cart as button"
+msgstr ""
+
+#: inc/options/option.php:814 includes/customizer.php:675
+msgid "Enable Login Icon"
+msgstr ""
+
+#: inc/options/option.php:824 includes/customizer.php:660
+msgid "Enable centered menu?"
+msgstr ""
+
+#: inc/options/option.php:834 includes/customizer.php:688
+msgid "Label for login icon"
+msgstr ""
+
+#: inc/options/option.php:843 inc/options/option.php:1006
+#: includes/customizer.php:698
+msgid "Enable Wishlist Icon and set Url"
+msgstr ""
+
+#: inc/options/option.php:849 inc/options/option.php:1012
+#: includes/customizer.php:699
+msgid ""
+"Set url on your page where you have [rh_get_user_favorites] shortcode. All "
+"icons in header will be available also in mobile logo panel. We don't "
+"recommend to enable more than 2 icons with Mobile logo."
+msgstr ""
+
+#: inc/options/option.php:854 includes/customizer.php:708
+msgid "Label for wishlist icon"
+msgstr ""
+
+#: inc/options/option.php:863 includes/customizer.php:718
+msgid "Add additional element (shortcodes and html supported)"
+msgstr ""
+
+#: inc/options/option.php:873 includes/customizer.php:731
+msgid "Enable login/register section"
+msgstr ""
+
+#: inc/options/option.php:874 includes/customizer.php:732
+msgid "Also, login popup must be enabled in Theme option - User options"
+msgstr ""
+
+#: inc/options/option.php:884 includes/customizer.php:747
+msgid "Enable additional button in header"
+msgstr ""
+
+#: inc/options/option.php:885 includes/customizer.php:748
+msgid "This will add button in header"
+msgstr ""
+
+#: inc/options/option.php:895 includes/customizer.php:763
+msgid "Choose color style of button"
+msgstr ""
+
+#: inc/options/option.php:896
+msgid "You can set theme colors in Theme option - appearance or via Customizer"
+msgstr ""
+
+#: inc/options/option.php:900 includes/customizer.php:766
+msgid "Main Color of Buttons"
+msgstr ""
+
+#: inc/options/option.php:912 includes/customizer.php:769
+msgid "green"
+msgstr ""
+
+#: inc/options/option.php:916 includes/customizer.php:771
+msgid "red"
+msgstr ""
+
+#: inc/options/option.php:920 includes/customizer.php:773
+msgid "black"
+msgstr ""
+
+#: inc/options/option.php:924 includes/customizer.php:778
+msgid "gold"
+msgstr ""
+
+#: inc/options/option.php:938 includes/customizer.php:788
+msgid "Type label for button"
+msgstr ""
+
+#: inc/options/option.php:948 includes/customizer.php:798
+msgid "Type url for button"
+msgstr ""
+
+#: inc/options/option.php:957 includes/customizer.php:809
+msgid "Enable login popup for non registered users"
+msgstr ""
+
+#: inc/options/option.php:958 includes/customizer.php:810
+msgid ""
+"This will open popup if non registered user clicks on button. Also, login "
+"popup must be enabled in Theme option - User options"
+msgstr ""
+
+#: inc/options/option.php:968 includes/customizer.php:825
+msgid "Enable search form in header"
+msgstr ""
+
+#: inc/options/option.php:978 includes/customizer.php:839
+msgid "Enable search icon in header"
+msgstr ""
+
+#: inc/options/option.php:988
+msgid "Enable additional menu in logo area"
+msgstr ""
+
+#: inc/options/option.php:989 includes/customizer.php:854
+msgid "Use short menu with small number of items!!!"
+msgstr ""
+
+#: inc/options/option.php:1017 includes/customizer.php:877
+msgid "Sticky Menu Bar"
+msgstr ""
+
+#: inc/options/option.php:1018 includes/customizer.php:878
+msgid "Enable/Disable Sticky navigation bar."
+msgstr ""
+
+#: inc/options/option.php:1024 includes/customizer.php:892
+msgid "Upload Logo for sticky menu"
+msgstr ""
+
+#: inc/options/option.php:1025 includes/customizer.php:466
+#: includes/customizer.php:893
+msgid "Upload your logo. Max height is 40px."
+msgstr ""
+
+#: inc/options/option.php:1035
+msgid "Choose color style of header logo section"
+msgstr ""
+
+#: inc/options/option.php:1039 inc/options/option.php:1121
+#: inc/options/option.php:1250 inc/options/option.php:1312
+#: inc/options/option.php:1388 includes/customizer.php:909
+#: includes/customizer.php:980 includes/customizer.php:1129
+#: includes/customizer.php:1204 includes/customizer.php:1276
+msgid "White style and dark fonts"
+msgstr ""
+
+#: inc/options/option.php:1043 inc/options/option.php:1125
+#: inc/options/option.php:1254 inc/options/option.php:1308
+#: inc/options/option.php:1384 includes/customizer.php:910
+#: includes/customizer.php:981 includes/customizer.php:1130
+#: includes/customizer.php:1205 includes/customizer.php:1277
+msgid "Dark style and white fonts"
+msgstr ""
+
+#: inc/options/option.php:1053 inc/options/option.php:1322
+#: includes/customizer.php:919 includes/customizer.php:1214
+msgid "Custom Background Color"
+msgstr ""
+
+#: inc/options/option.php:1054 inc/options/option.php:1323
+#: includes/customizer.php:920 includes/customizer.php:1215
+msgid "Choose the background color or leave blank for default"
+msgstr ""
+
+#: inc/options/option.php:1060 inc/options/option.php:1329
+#: includes/customizer.php:930 includes/customizer.php:1225
+msgid "Custom Background Image"
+msgstr ""
+
+#: inc/options/option.php:1061 inc/options/option.php:1330
+#: inc/options/option.php:3135 includes/customizer.php:931
+#: includes/customizer.php:1226
+msgid "Upload a background image or leave blank"
+msgstr ""
+
+#: inc/options/option.php:1112
+msgid "Header main menu Options"
+msgstr ""
+
+#: inc/options/option.php:1117
+msgid "Choose color style of header menu section"
+msgstr ""
+
+#: inc/options/option.php:1135 includes/customizer.php:992
+msgid "Choose type of font and padding"
+msgstr ""
+
+#: inc/options/option.php:1139 includes/customizer.php:996
+msgid "Middle size and padding"
+msgstr ""
+
+#: inc/options/option.php:1143 includes/customizer.php:997
+msgid "Compact size and padding"
+msgstr ""
+
+#: inc/options/option.php:1147 includes/customizer.php:998
+msgid "Big size and padding"
+msgstr ""
+
+#: inc/options/option.php:1157 includes/customizer.php:1007
+msgid "Add custom font size"
+msgstr ""
+
+#: inc/options/option.php:1158 includes/customizer.php:1008
+msgid "Default is 15. Put just number"
+msgstr ""
+
+#: inc/options/option.php:1163 includes/customizer.php:1020
+msgid "Enable uppercase font?"
+msgstr ""
+
+#: inc/options/option.php:1169 includes/customizer.php:1036
+msgid "Enable Light font weight?"
+msgstr ""
+
+#: inc/options/option.php:1175 includes/customizer.php:1052
+msgid "Disable border of items?"
+msgstr ""
+
+#: inc/options/option.php:1181 includes/customizer.php:1068
+msgid "Menu shadow"
+msgstr ""
+
+#: inc/options/option.php:1182 includes/customizer.php:1069
+msgid "Enable/Disable shadow under menu"
+msgstr ""
+
+#: inc/options/option.php:1188 includes/customizer.php:1084
+msgid "Custom color of menu background"
+msgstr ""
+
+#: inc/options/option.php:1189 inc/options/option.php:1197
+#: inc/options/option.php:1265 inc/options/option.php:1273
+#: includes/customizer.php:1085 includes/customizer.php:1096
+#: includes/customizer.php:1140 includes/customizer.php:1151
+msgid "Or leave blank for default color"
+msgstr ""
+
+#: inc/options/option.php:1196 includes/customizer.php:1095
+msgid "Custom color of menu font"
+msgstr ""
+
+#: inc/options/option.php:1205
+msgid "Search"
+msgstr ""
+
+#: inc/options/option.php:1210
+msgid "Add ajax search for header search"
+msgstr ""
+
+#: inc/options/option.php:1216
+msgid "Choose custom post type for search"
+msgstr ""
+
+#: inc/options/option.php:1217
+msgid ""
+"By default search form shows post and pages. You can change this here. "
+"Multiple post types are supported only for ajax search"
+msgstr ""
+
+#: inc/options/option.php:1235
+msgid "Header top line Options"
+msgstr ""
+
+#: inc/options/option.php:1240 includes/customizer.php:1107
+msgid "Enable top line"
+msgstr ""
+
+#: inc/options/option.php:1246 includes/customizer.php:1125
+msgid "Choose color style of header top line"
+msgstr ""
+
+#: inc/options/option.php:1264 includes/customizer.php:1139
+msgid "Custom color for top line of header"
+msgstr ""
+
+#: inc/options/option.php:1272 includes/customizer.php:1150
+msgid "Custom color of menu font for top line of header"
+msgstr ""
+
+#: inc/options/option.php:1279 includes/customizer.php:1161
+msgid "Add custom content to top line"
+msgstr ""
+
+#: inc/options/option.php:1286 includes/customizer.php:1171
+msgid "Footer Options"
+msgstr ""
+
+#: inc/options/option.php:1292
+msgid "Footer options"
+msgstr ""
+
+#: inc/options/option.php:1297 includes/customizer.php:1182
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/options/option.php:1298 includes/customizer.php:1183
+msgid "Enable or Disable the footer widget area"
+msgstr ""
+
+#: inc/options/option.php:1304 includes/customizer.php:1199
+msgid "Choose color style of footer widget section"
+msgstr ""
+
+#: inc/options/option.php:1380 includes/customizer.php:1271
+msgid "Choose color style of bottom section"
+msgstr ""
+
+#: inc/options/option.php:1398 includes/customizer.php:1287
+msgid "Footer Bottom Text"
+msgstr ""
+
+#: inc/options/option.php:1399 includes/customizer.php:1288
+msgid "Enter your copyright text or whatever you want right here."
+msgstr ""
+
+#: inc/options/option.php:1405 includes/customizer.php:1299
+msgid "Upload Logo for footer"
+msgstr ""
+
+#: inc/options/option.php:1406 includes/customizer.php:1300
+msgid "Upload your logo for footer."
+msgstr ""
+
+#: inc/options/option.php:1414
+msgid "Mobile & AMP"
+msgstr ""
+
+#: inc/options/option.php:1425 includes/customizer.php:465
+msgid "Upload Logo for mobiles"
+msgstr ""
+
+#: inc/options/option.php:1426
+msgid ""
+"Upload your logo. Max height is 40px. By default, your main logo will be used"
+msgstr ""
+
+#: inc/options/option.php:1432 includes/customizer.php:475
+#: install/index.php:841
+msgid "Mobile header background"
+msgstr ""
+
+#: inc/options/option.php:1433 inc/options/option.php:1441
+#: includes/customizer.php:476 includes/customizer.php:486
+msgid "Leave blank to use colors of menu"
+msgstr ""
+
+#: inc/options/option.php:1440 includes/customizer.php:485
+#: install/index.php:843
+msgid "Mobile header link color"
+msgstr ""
+
+#: inc/options/option.php:1448
+msgid "Mobile Sliding panel"
+msgstr ""
+
+#: inc/options/option.php:1453 includes/customizer.php:495
+msgid "Enable logo in sliding mobile panel"
+msgstr ""
+
+#: inc/options/option.php:1458
+msgid "Enable background image under logo"
+msgstr ""
+
+#: inc/options/option.php:1463 includes/customizer.php:505
+msgid "Background color under logo in Sliding panel"
+msgstr ""
+
+#: inc/options/option.php:1469
+msgid "Add custom element or shortcode"
+msgstr ""
+
+#: inc/options/option.php:1475
+msgid "AMP"
+msgstr ""
+
+#: inc/options/option.php:1481
+msgid "Read about setup for"
+msgstr ""
+
+#: inc/options/option.php:1487
+msgid "Load logo for AMP version"
+msgstr ""
+
+#: inc/options/option.php:1488
+msgid "Recommended size is 190*36"
+msgstr ""
+
+#: inc/options/option.php:1494
+msgid "Before Title"
+msgstr ""
+
+#: inc/options/option.php:1499
+msgid "Before content"
+msgstr ""
+
+#: inc/options/option.php:1504
+msgid "After content"
+msgstr ""
+
+#: inc/options/option.php:1509
+msgid "Header section"
+msgstr ""
+
+#: inc/options/option.php:1510
+msgid "Insert custom code for head section before closed HEAD tag"
+msgstr ""
+
+#: inc/options/option.php:1515
+msgid "Footer section"
+msgstr ""
+
+#: inc/options/option.php:1516
+msgid "Insert custom code for footer section, before closed BODY tag"
+msgstr ""
+
+#: inc/options/option.php:1521
+msgid ""
+"Disable default amp styles of theme. Disable this only if you have custom "
+"plugin for AMP"
+msgstr ""
+
+#: inc/options/option.php:1527
+msgid "Custom css"
+msgstr ""
+
+#: inc/options/option.php:1534
+msgid "Loop customization"
+msgstr ""
+
+#: inc/options/option.php:1540
+msgid "Woocommerce Loop"
+msgstr ""
+
+#: inc/options/option.php:1545
+msgid "Disable button in ALL product loops?"
+msgstr ""
+
+#: inc/options/option.php:1551 includes/customizer.php:1368
+msgid "Enable button in compact grid and directory grid"
+msgstr ""
+
+#: inc/options/option.php:1552 inc/options/option.php:1635
+msgid "Will not work if you disable buttons in previous field"
+msgstr ""
+
+#: inc/options/option.php:1558 inc/options/option.php:1647
+msgid "Show in price area of deal grid"
+msgstr ""
+
+#: inc/options/option.php:1562
+msgid "Price + Content Egg synchronized offer"
+msgstr ""
+
+#: inc/options/option.php:1566 inc/options/option.php:1655
+msgid "Brand logo + Price"
+msgstr ""
+
+#: inc/options/option.php:1570 inc/options/option.php:1659
+msgid "Only Price"
+msgstr ""
+
+#: inc/options/option.php:1574 inc/options/option.php:1663
+msgid "Nothing"
+msgstr ""
+
+#: inc/options/option.php:1584 inc/options/option.php:1673
+#: includes/customizer.php:1396
+msgid "Enable affiliate links instead inner?"
+msgstr ""
+
+#: inc/options/option.php:1590 includes/customizer.php:1427
+msgid "Headings color"
+msgstr ""
+
+#: inc/options/option.php:1596 includes/customizer.php:1457
+msgid "Heading Font size"
+msgstr ""
+
+#: inc/options/option.php:1603 includes/customizer.php:1438
+msgid "Price color"
+msgstr ""
+
+#: inc/options/option.php:1609 includes/customizer.php:1467
+msgid "Price Font size"
+msgstr ""
+
+#: inc/options/option.php:1616 includes/customizer.php:1448
+msgid "Sale tag color"
+msgstr ""
+
+#: inc/options/option.php:1623
+msgid "Post Loop"
+msgstr ""
+
+#: inc/options/option.php:1628
+msgid "Disable offer button in ALL loops?"
+msgstr ""
+
+#: inc/options/option.php:1634
+msgid "Enable button in deal grid layout?"
+msgstr ""
+
+#: inc/options/option.php:1641
+msgid "Disable comment and thumbs in deal grid layout?"
+msgstr ""
+
+#: inc/options/option.php:1651
+msgid "User logo + Price"
+msgstr ""
+
+#: inc/options/option.php:1679
+msgid "Enable expand button in list layout?"
+msgstr ""
+
+#: inc/options/option.php:1680
+msgid "Sometimes can be buggy"
+msgstr ""
+
+#: inc/options/option.php:1686
+msgid "Hottest value"
+msgstr ""
+
+#: inc/options/option.php:1687
+msgid ""
+"After hot metter reach this value, scale will have hot image and 100 percent "
+"fill + will be used in hottest filter"
+msgstr ""
+
+#: inc/options/option.php:1696
+msgid "Coldest value"
+msgstr ""
+
+#: inc/options/option.php:1697
+msgid ""
+"After hot metter reach this value, scale will have cold image and 100 "
+"percent fill of cold"
+msgstr ""
+
+#: inc/options/option.php:1707 inc/options/option.php:2051
+msgid "Other"
+msgstr ""
+
+#: inc/options/option.php:1712
+msgid "Url to custom fallback image for Featured Images"
+msgstr ""
+
+#: inc/options/option.php:1719
+msgid "Shop settings"
+msgstr ""
+
+#: inc/options/option.php:1725
+msgid "General settings"
+msgstr ""
+
+#: inc/options/option.php:1730 includes/customizer.php:1320
+msgid "How to show archives"
+msgstr ""
+
+#: inc/options/option.php:1734 includes/customizer.php:1324
+msgid "As 3 columns with sidebar"
+msgstr ""
+
+#: inc/options/option.php:1738 includes/customizer.php:1325
+msgid "As 4 columns full width"
+msgstr ""
+
+#: inc/options/option.php:1742 includes/customizer.php:1326
+msgid "As 4 columns + sidebar"
+msgstr ""
+
+#: inc/options/option.php:1746 includes/customizer.php:1327
+msgid "As 5 columns + sidebar"
+msgstr ""
+
+#: inc/options/option.php:1750
+msgid ""
+"Use 5 columns only in Extended Width Layout (Theme option - General - Width "
+"Style) and 30 products in loop"
+msgstr ""
+
+#: inc/options/option.php:1761 includes/customizer.php:1350
+msgid "Set design of woo archive"
+msgstr ""
+
+#: inc/options/option.php:1765 includes/customizer.php:1354
+msgid "Columns"
+msgstr ""
+
+#: inc/options/option.php:1769 includes/customizer.php:1355
+msgid "Grid"
+msgstr ""
+
+#: inc/options/option.php:1773 includes/customizer.php:1356
+msgid "Compact Grid"
+msgstr ""
+
+#: inc/options/option.php:1777 includes/customizer.php:1357
+msgid "Directory Grid"
+msgstr ""
+
+#: inc/options/option.php:1781 includes/customizer.php:1358
+msgid "Digital Grid"
+msgstr ""
+
+#: inc/options/option.php:1785 includes/customizer.php:1359
+msgid "List"
+msgstr ""
+
+#: inc/options/option.php:1797 includes/customizer.php:1411
+msgid "Set count of products in loop"
+msgstr ""
+
+#: inc/options/option.php:1801 includes/customizer.php:1415
+msgid "12"
+msgstr ""
+
+#: inc/options/option.php:1805 includes/customizer.php:1416
+msgid "16"
+msgstr ""
+
+#: inc/options/option.php:1809 includes/customizer.php:1417
+msgid "24"
+msgstr ""
+
+#: inc/options/option.php:1813 includes/customizer.php:1418
+msgid "30"
+msgstr ""
+
+#: inc/options/option.php:1821 includes/customizer.php:1561
+msgid "Product layout"
+msgstr ""
+
+#: inc/options/option.php:1839
+msgid "Custom Code Areas"
+msgstr ""
+
+#: inc/options/option.php:1844 includes/customizer.php:1494
+msgid "After Button Area"
+msgstr ""
+
+#: inc/options/option.php:1845 includes/customizer.php:1495
+msgid "This code zone is visible on all products after Add to cart Button"
+msgstr ""
+
+#: inc/options/option.php:1851 includes/customizer.php:1504
+msgid "Before Content"
+msgstr ""
+
+#: inc/options/option.php:1852 includes/customizer.php:1505
+msgid "This code zone is visible on all products before Content"
+msgstr ""
+
+#: inc/options/option.php:1858 includes/customizer.php:1514
+msgid "Before footer"
+msgstr ""
+
+#: inc/options/option.php:1859 includes/customizer.php:1515
+msgid "This code zone is visible on all products Before Footer"
+msgstr ""
+
+#: inc/options/option.php:1865 includes/customizer.php:1524
+msgid "In floating panel"
+msgstr ""
+
+#: inc/options/option.php:1871 includes/customizer.php:1483
+msgid "Code zone inside product loop"
+msgstr ""
+
+#: inc/options/option.php:1872 includes/customizer.php:1484
+msgid "This code zone is visible on shop pages inside each product item."
+msgstr ""
+
+#: inc/options/option.php:1878
+msgid "Code zone on Shop archives"
+msgstr ""
+
+#: inc/options/option.php:1885
+msgid "Enable/Disable"
+msgstr ""
+
+#: inc/options/option.php:1890
+msgid "Disable button inside Product page"
+msgstr ""
+
+#: inc/options/option.php:1896
+msgid "Disable Woocommerce Cart scripts"
+msgstr ""
+
+#: inc/options/option.php:1897
+msgid ""
+"This will disable All Cart scripts of woocommerce. Use this only when you "
+"use woocommerce for affiliate site without cart"
+msgstr ""
+
+#: inc/options/option.php:1903
+msgid "Enable share buttons on product page?"
+msgstr ""
+
+#: inc/options/option.php:1909 includes/customizer.php:1382
+msgid "Enable quick view"
+msgstr ""
+
+#: inc/options/option.php:1915
+msgid "Place for cart icon"
+msgstr ""
+
+#: inc/options/option.php:1919
+msgid "No place"
+msgstr ""
+
+#: inc/options/option.php:1923 inc/options/option.php:3051
+msgid "In top line"
+msgstr ""
+
+#: inc/options/option.php:1927 inc/options/option.php:3055
+msgid "In main menu"
+msgstr ""
+
+#: inc/options/option.php:1936
+msgid "Synchronizations"
+msgstr ""
+
+#: inc/options/option.php:1941
+msgid "Add xprofile fields to register form?"
+msgstr ""
+
+#: inc/options/option.php:1942
+msgid ""
+"Set additional fields in User - Profile fields. Works only with enabled "
+"Buddypress"
+msgstr ""
+
+#: inc/options/option.php:1948
+msgid "Synchronize product and user location?"
+msgstr ""
+
+#: inc/options/option.php:1949
+msgid ""
+"This works for Geo My wordpress plugin. If user has location and adds a "
+"product, product will have also his location automatically"
+msgstr ""
+
+#: inc/options/option.php:1957
+msgid "Affiliate and Seo"
+msgstr ""
+
+#: inc/options/option.php:1963
+msgid "Content Egg synchronization"
+msgstr ""
+
+#: inc/options/option.php:1968
+msgid "Save data from Content Egg to post offer section"
+msgstr ""
+
+#: inc/options/option.php:1969
+msgid ""
+"This option will store data from Content Egg modules to main offer of post. "
+"Works only with enabled Content Egg plugin"
+msgstr ""
+
+#: inc/options/option.php:1983
+msgid "Custom currency"
+msgstr ""
+
+#: inc/options/option.php:1984
+msgid ""
+"Use this if you want to convert all prices of Content Egg into your "
+"currency. Currency in ISO 4217. Example: USD or EUR"
+msgstr ""
+
+#: inc/options/option.php:1990
+msgid "CashBack Options"
+msgstr ""
+
+#: inc/options/option.php:1995
+msgid "Add user info as sub ID to links"
+msgstr ""
+
+#: inc/options/option.php:2001
+msgid "Which info you want to use"
+msgstr ""
+
+#: inc/options/option.php:2005
+msgid "User ID"
+msgstr ""
+
+#: inc/options/option.php:2009
+msgid "User login name"
+msgstr ""
+
+#: inc/options/option.php:2013
+msgid "Login name of author of post"
+msgstr ""
+
+#: inc/options/option.php:2017
+msgid "ID of author of post"
+msgstr ""
+
+#: inc/options/option.php:2024
+msgid "Set custom url parameter for sub ID"
+msgstr ""
+
+#: inc/options/option.php:2025
+msgid ""
+"default is subid= Make sure that you added symbol = or other which is used "
+"in your network for parameters. If you have several networks, add them from "
+"separate line. Example is next - amazon.com@subid=, where amazon.com is "
+"domain of link and subid is url parameter. Default subid which will be "
+"triggered for all other links can be added in last line without domain. If "
+"you want to exclude some domain, add them like domain.com@exclude, this will "
+"not add subid parameters to them"
+msgstr ""
+
+#: inc/options/option.php:2034
+msgid "Set key of Mycred points for cashback"
+msgstr ""
+
+#: inc/options/option.php:2035
+msgid "Set custom point key where you store approved cashback points"
+msgstr ""
+
+#: inc/options/option.php:2040
+msgid "Set key of Mycred points for pending cashback"
+msgstr ""
+
+#: inc/options/option.php:2045
+msgid "Set key of Mycred points for declined cashback"
+msgstr ""
+
+#: inc/options/option.php:2056
+msgid "Hide all expired offers"
+msgstr ""
+
+#: inc/options/option.php:2057
+msgid "This will hide expired offers for archives"
+msgstr ""
+
+#: inc/options/option.php:2063
+msgid "Enable shortcodes in title"
+msgstr ""
+
+#: inc/options/option.php:2064
+msgid ""
+"You can use date shortcode to generate current date. Example: "
+"[wpsm_custom_meta type=date field=month] or [wpsm_custom_meta type=date "
+"field=year]"
+msgstr ""
+
+#: inc/options/option.php:2070
+msgid "Enable Affiliate Store taxonomy for posts"
+msgstr ""
+
+#: inc/options/option.php:2077
+msgid "Select Affiliate Store Layout"
+msgstr ""
+
+#: inc/options/option.php:2081
+msgid "Deal list"
+msgstr ""
+
+#: inc/options/option.php:2085
+msgid "Regular List Layout"
+msgstr ""
+
+#: inc/options/option.php:2089
+msgid "Deal grid"
+msgstr ""
+
+#: inc/options/option.php:2093
+msgid "Regular grid"
+msgstr ""
+
+#: inc/options/option.php:2097
+msgid "Compact grid"
+msgstr ""
+
+#: inc/options/option.php:2111
+msgid ""
+"Set custom link slug for Affiliate Store. Update permalinks after this in "
+"Settings - permalinks"
+msgstr ""
+
+#: inc/options/option.php:2118
+msgid "Fonts Options"
+msgstr ""
+
+#: inc/options/option.php:2129
+msgid "Enable Inner Storage of Google Fonts"
+msgstr ""
+
+#: inc/options/option.php:2136
+msgid "Enable regular FontAwesome?"
+msgstr ""
+
+#: inc/options/option.php:2145
+msgid "Navigation Font"
+msgstr ""
+
+#: inc/options/option.php:2150
+msgid "Navigation Font Family"
+msgstr ""
+
+#: inc/options/option.php:2151
+msgid "Font for navigation"
+msgstr ""
+
+#: inc/options/option.php:2164 inc/options/option.php:2231
+#: inc/options/option.php:2303 inc/options/option.php:2376
+msgid "Font Style"
+msgstr ""
+
+#: inc/options/option.php:2181 inc/options/option.php:2248
+#: inc/options/option.php:2320 inc/options/option.php:2393
+msgid "Font Weight"
+msgstr ""
+
+#: inc/options/option.php:2195 inc/options/option.php:2262
+#: inc/options/option.php:2334 inc/options/option.php:2407
+msgid "Font Subset"
+msgstr ""
+
+#: inc/options/option.php:2212
+msgid "Headings Font"
+msgstr ""
+
+#: inc/options/option.php:2217
+msgid "Headings Font Family"
+msgstr ""
+
+#: inc/options/option.php:2218
+msgid "Font for headings in text, sidebar, footer"
+msgstr ""
+
+#: inc/options/option.php:2277
+msgid "Enable uppercase?"
+msgstr ""
+
+#: inc/options/option.php:2285
+msgid "Button Font"
+msgstr ""
+
+#: inc/options/option.php:2290
+msgid "Button Font Family"
+msgstr ""
+
+#: inc/options/option.php:2349
+msgid "Disable uppercase?"
+msgstr ""
+
+#: inc/options/option.php:2357
+msgid "Body Font"
+msgstr ""
+
+#: inc/options/option.php:2362
+msgid "Body Font Family"
+msgstr ""
+
+#: inc/options/option.php:2363
+msgid "Font for body text"
+msgstr ""
+
+#: inc/options/option.php:2422
+msgid "Set body font size"
+msgstr ""
+
+#: inc/options/option.php:2423
+msgid ""
+"Set font size in px. If you want to add also line height, add it after "
+"symbol \":\". Example, 20:24, where 20px is font size, 24px is line height"
+msgstr ""
+
+#: inc/options/option.php:2432
+msgid "Global Enable/Disable"
+msgstr ""
+
+#: inc/options/option.php:2438
+msgid "Global options"
+msgstr ""
+
+#: inc/options/option.php:2443
+msgid "Disable resize for Featured images"
+msgstr ""
+
+#: inc/options/option.php:2444
+#, php-format
+msgid "Will be used 100% original image. Can slow down a site."
+msgstr ""
+
+#: inc/options/option.php:2450
+msgid "Enable lazyload script on thumbnails"
+msgstr ""
+
+#: inc/options/option.php:2451
+msgid "For better image perfomance. Sometimes can be buggy with other scripts"
+msgstr ""
+
+#: inc/options/option.php:2457
+msgid "Enable Critical Css"
+msgstr ""
+
+#: inc/options/option.php:2458
+msgid "Experimental, can help to improve render blocking for speed"
+msgstr ""
+
+#: inc/options/option.php:2464
+msgid "Disable author link"
+msgstr ""
+
+#: inc/options/option.php:2465
+msgid "Disable author link from meta in string"
+msgstr ""
+
+#: inc/options/option.php:2471
+msgid "Disable category link"
+msgstr ""
+
+#: inc/options/option.php:2472
+msgid "Disable category link from meta in string"
+msgstr ""
+
+#: inc/options/option.php:2478
+msgid "Disable date"
+msgstr ""
+
+#: inc/options/option.php:2479
+msgid "Disable date from meta in string"
+msgstr ""
+
+#: inc/options/option.php:2485
+msgid "Disable comments count"
+msgstr ""
+
+#: inc/options/option.php:2486
+msgid "Disable comments count from meta in string"
+msgstr ""
+
+#: inc/options/option.php:2492
+msgid "Disable hot and thumb metter"
+msgstr ""
+
+#: inc/options/option.php:2498
+msgid "Disable wishlist"
+msgstr ""
+
+#: inc/options/option.php:2504
+msgid "Select page for Wishlist"
+msgstr ""
+
+#: inc/options/option.php:2505
+msgid ""
+"By default, second click on heart icon will remove item from wishlist. If "
+"you set page here, such click will redirect user to wishlist page. Page must "
+"have shortcode [rh_get_user_favorites]"
+msgstr ""
+
+#: inc/options/option.php:2518
+msgid "Wishlist Button Support for Cache plugins"
+msgstr ""
+
+#: inc/options/option.php:2524
+msgid "Allow to use hot and thumbs only for logged users"
+msgstr ""
+
+#: inc/options/option.php:2530
+msgid "Allow to use wishlist only for logged users"
+msgstr ""
+
+#: inc/options/option.php:2536
+msgid "Disable post view script"
+msgstr ""
+
+#: inc/options/option.php:2542
+msgid "Enable to show Date of publishing as date meta"
+msgstr ""
+
+#: inc/options/option.php:2549
+msgid "Global disabling parts on single pages"
+msgstr ""
+
+#: inc/options/option.php:2554
+msgid "Duplicate Post Meta boxes"
+msgstr ""
+
+#: inc/options/option.php:2555
+msgid ""
+"You can enable Post offer, Post format and Post Thumbnails meta panels for "
+"other several post types here (By default, only in Posts)"
+msgstr ""
+
+#: inc/options/option.php:2569
+msgid "Disable breadcrumbs"
+msgstr ""
+
+#: inc/options/option.php:2570
+msgid "Disable breadcrumbs from pages"
+msgstr ""
+
+#: inc/options/option.php:2577 inc/options/option.php:2584
+msgid "Disable share buttons"
+msgstr ""
+
+#: inc/options/option.php:2578
+msgid "Disable share buttons after content on pages"
+msgstr ""
+
+#: inc/options/option.php:2585
+msgid "Disable share buttons before content on pages"
+msgstr ""
+
+#: inc/options/option.php:2591
+msgid "Disable previous and next"
+msgstr ""
+
+#: inc/options/option.php:2592
+msgid "Disable previous and next post buttons"
+msgstr ""
+
+#: inc/options/option.php:2598
+msgid "Disable tags"
+msgstr ""
+
+#: inc/options/option.php:2599
+msgid "Disable tags after content from pages"
+msgstr ""
+
+#: inc/options/option.php:2606
+msgid "Disable author box"
+msgstr ""
+
+#: inc/options/option.php:2607
+msgid "Disable author box after content from pages"
+msgstr ""
+
+#: inc/options/option.php:2613
+msgid "Disable relative posts"
+msgstr ""
+
+#: inc/options/option.php:2614
+msgid "Disable relative posts box after content from pages"
+msgstr ""
+
+#: inc/options/option.php:2620
+msgid "Disable crop in related"
+msgstr ""
+
+#: inc/options/option.php:2626
+msgid "Disable top thumbnail on single page"
+msgstr ""
+
+#: inc/options/option.php:2632
+msgid "Disable sidebar on posts"
+msgstr ""
+
+#: inc/options/option.php:2638
+msgid "Disable standart comments"
+msgstr ""
+
+#: inc/options/option.php:2644
+msgid "Insert comments widget code"
+msgstr ""
+
+#: inc/options/option.php:2645
+msgid "You can set here comments widget, for example, from disqus"
+msgstr ""
+
+#: inc/options/option.php:2652
+msgid "Ads and Code Zones"
+msgstr ""
+
+#: inc/options/option.php:2658
+msgid "Ads code in header and footer"
+msgstr ""
+
+#: inc/options/option.php:2663
+msgid "Header area"
+msgstr ""
+
+#: inc/options/option.php:2664
+msgid ""
+"This banner code will be visible in header. Width of this zone depends on "
+"style of header (You can choose it in Header and menu tab)"
+msgstr ""
+
+#: inc/options/option.php:2670
+msgid "Before header area"
+msgstr ""
+
+#: inc/options/option.php:2671
+msgid "This banner code will be visible before header."
+msgstr ""
+
+#: inc/options/option.php:2677
+msgid "Before footer area"
+msgstr ""
+
+#: inc/options/option.php:2678
+msgid "This banner code will be visible before footer"
+msgstr ""
+
+#: inc/options/option.php:2685
+msgid "Global code for single page"
+msgstr ""
+
+#: inc/options/option.php:2690
+msgid "After title area"
+msgstr ""
+
+#: inc/options/option.php:2691
+msgid "This code will be visible after title"
+msgstr ""
+
+#: inc/options/option.php:2697
+msgid "Before content area"
+msgstr ""
+
+#: inc/options/option.php:2698
+msgid "This code will be visible before post content"
+msgstr ""
+
+#: inc/options/option.php:2704
+msgid "Tips"
+msgstr ""
+
+#: inc/options/option.php:2705
+msgid ""
+"You can wrap your code with &lt;div class=&quot;floatright ml15&quot;&gt;"
+"your ads code&lt;/div&gt; if you want to add right float or &lt;div "
+"class=&quot;floatleft mr15&quot;&gt;your ads code&lt;/div&gt; for left "
+"float. Please, use square ads with width 250-300px for floated ads."
+msgstr ""
+
+#: inc/options/option.php:2711
+msgid "After post area"
+msgstr ""
+
+#: inc/options/option.php:2712
+msgid "This code will be visible after post"
+msgstr ""
+
+#: inc/options/option.php:2718 inc/options/option.php:2724
+msgid "Insert custom ads code for shortcode"
+msgstr ""
+
+#: inc/options/option.php:2719
+msgid ""
+"You can insert this code in any place of content by shortcode [wpsm_ads1]"
+msgstr ""
+
+#: inc/options/option.php:2725
+msgid ""
+"You can insert this code in any place of content by shortcode [wpsm_ads2]"
+msgstr ""
+
+#: inc/options/option.php:2730
+msgid "Coupon area"
+msgstr ""
+
+#: inc/options/option.php:2731
+msgid "This banner code will be visible in coupon modal"
+msgstr ""
+
+#: inc/options/option.php:2738
+msgid "Global branded area"
+msgstr ""
+
+#: inc/options/option.php:2744
+msgid ""
+"Branded area displays after header. You can set direct link on image or "
+"insert any html code or shortcode"
+msgstr ""
+
+#: inc/options/option.php:2750
+msgid "Branded area"
+msgstr ""
+
+#: inc/options/option.php:2751
+msgid "Set any custom code or link to image"
+msgstr ""
+
+#: inc/options/option.php:2760
+msgid "Reviews"
+msgstr ""
+
+#: inc/options/option.php:2766
+msgid "Reviews, links, rating"
+msgstr ""
+
+#: inc/options/option.php:2771
+msgid "Type of user ratings"
+msgstr ""
+
+#: inc/options/option.php:2775
+msgid "simple rating, no criterias"
+msgstr ""
+
+#: inc/options/option.php:2779
+msgid "full review with criterias and pros, cons"
+msgstr ""
+
+#: inc/options/option.php:2783
+msgid "Show only user's reviews with criterias (don't show editor's review)"
+msgstr ""
+
+#: inc/options/option.php:2787
+msgid "none"
+msgstr ""
+
+#: inc/options/option.php:2795
+msgid "How to calculate total score of review"
+msgstr ""
+
+#: inc/options/option.php:2799
+msgid "based on Expert Score"
+msgstr ""
+
+#: inc/options/option.php:2803
+msgid "average (editor's and user's)"
+msgstr ""
+
+#: inc/options/option.php:2807
+msgid "based on user's"
+msgstr ""
+
+#: inc/options/option.php:2819
+msgid "User review criteria names"
+msgstr ""
+
+#: inc/options/option.php:2820
+msgid "Type with commas and no spaces. Example: Design,Price,Battery life"
+msgstr ""
+
+#: inc/options/option.php:2829
+msgid "Type of schema for reviews"
+msgstr ""
+
+#: inc/options/option.php:2833
+msgid "Based on editor's review"
+msgstr ""
+
+#: inc/options/option.php:2837
+msgid "Based on user reviews"
+msgstr ""
+
+#: inc/options/option.php:2841
+msgid "Disable all and use your custom"
+msgstr ""
+
+#: inc/options/option.php:2849
+msgid "Place organization name"
+msgstr ""
+
+#: inc/options/option.php:2850
+msgid ""
+"This is for seo purpose. Must be short name. Also, set correct logo width "
+"and height in theme option - logo option"
+msgstr ""
+
+#: inc/options/option.php:2855
+msgid "Allow to rate posts"
+msgstr ""
+
+#: inc/options/option.php:2856
+msgid "Who can rate review posts?"
+msgstr ""
+
+#: inc/options/option.php:2860
+msgid "guests"
+msgstr ""
+
+#: inc/options/option.php:2864
+msgid "users"
+msgstr ""
+
+#: inc/options/option.php:2868
+msgid "guests and users"
+msgstr ""
+
+#: inc/options/option.php:2876
+msgid "Default color for editor's review box and total score"
+msgstr ""
+
+#: inc/options/option.php:2877
+msgid "Choose the background color or leave blank for default red color"
+msgstr ""
+
+#: inc/options/option.php:2883
+msgid "Default color for user review box and user stars"
+msgstr ""
+
+#: inc/options/option.php:2884
+msgid "Choose the background color or leave blank for default blue color"
+msgstr ""
+
+#: inc/options/option.php:2891
+msgid "Add review fields to RH frontend form"
+msgstr ""
+
+#: inc/options/option.php:2896
+msgid "Form ID and names of review criterias"
+msgstr ""
+
+#: inc/options/option.php:2897
+msgid ""
+"Type Form ID and names of criterias for review form like: 2:Design,Price,"
+"Usability without spaces. Place each form values from next line. You can "
+"download RH Frontend Publishing plugin in Rehub - Plugins tab"
+msgstr ""
+
+#: inc/options/option.php:2905 inc/options/option.php:2911
+msgid "Localization"
+msgstr ""
+
+#: inc/options/option.php:2916
+msgid "Choose price pattern"
+msgstr ""
+
+#: inc/options/option.php:2920
+msgid "USA. Example: 1000.00"
+msgstr ""
+
+#: inc/options/option.php:2924
+msgid "EU. Example: 1000,00"
+msgstr ""
+
+#: inc/options/option.php:2928
+msgid "IN. Example: 1,000.00"
+msgstr ""
+
+#: inc/options/option.php:2936 inc/options/option.php:2949
+msgid "Set text for button"
+msgstr ""
+
+#: inc/options/option.php:2937
+msgid ""
+"It will be used on button for product reviews, top rating pages instead BUY "
+"THIS ITEM"
+msgstr ""
+
+#: inc/options/option.php:2943
+msgid "Set text for coupon mask"
+msgstr ""
+
+#: inc/options/option.php:2944
+msgid "It will be used on coupon mask instead REVEAL COUPON"
+msgstr ""
+
+#: inc/options/option.php:2950
+msgid ""
+"It will be used on button for products with list of links instead CHOOSE "
+"OFFER."
+msgstr ""
+
+#: inc/options/option.php:2955
+msgid "Set text for read more link"
+msgstr ""
+
+#: inc/options/option.php:2956
+msgid "It will be used instead READ MORE"
+msgstr ""
+
+#: inc/options/option.php:2961
+msgid "Set text for comparison list layout"
+msgstr ""
+
+#: inc/options/option.php:2962
+msgid "It will be used instead BUY FOR BEST PRICE"
+msgstr ""
+
+#: inc/options/option.php:2967
+msgid "Set text for full review link"
+msgstr ""
+
+#: inc/options/option.php:2968
+msgid "It will be used in top review pages instead READ FULL REVIEW"
+msgstr ""
+
+#: inc/options/option.php:2973
+msgid "Set text for Search placeholder"
+msgstr ""
+
+#: inc/options/option.php:2974
+msgid "It will be used in default search form instead SEARCH"
+msgstr ""
+
+#: inc/options/option.php:2979
+msgid "Set text for comment title, when no comments"
+msgstr ""
+
+#: inc/options/option.php:2980
+msgid "It will be used instead: We will be happy to see your thoughts"
+msgstr ""
+
+#: inc/options/option.php:2985
+msgid "Set text for Related article title"
+msgstr ""
+
+#: inc/options/option.php:2986
+msgid "It will be used instead Related Articles"
+msgstr ""
+
+#: inc/options/option.php:2993
+msgid "User options"
+msgstr ""
+
+#: inc/options/option.php:2999
+msgid "Options for User login popup"
+msgstr ""
+
+#: inc/options/option.php:3004
+msgid "Note!"
+msgstr ""
+
+#: inc/options/option.php:3005
+msgid "Please, read about user functions in our"
+msgstr ""
+
+#: inc/options/option.php:3011
+msgid "Enable user login modal?"
+msgstr ""
+
+#: inc/options/option.php:3012
+msgid "If you disable this, user modal will not work"
+msgstr ""
+
+#: inc/options/option.php:3018
+msgid "Add custom message"
+msgstr ""
+
+#: inc/options/option.php:3019
+msgid "Add text or shortcode in registration popup"
+msgstr ""
+
+#: inc/options/option.php:3024
+msgid "Type url for login button"
+msgstr ""
+
+#: inc/options/option.php:3025
+msgid ""
+"By default, login button triggers login popup, but you can redirect users to "
+"any link with registration form if you set this field. Login popup will not "
+"work in this case"
+msgstr ""
+
+#: inc/options/option.php:3030
+msgid "Add custom register link"
+msgstr ""
+
+#: inc/options/option.php:3031
+msgid ""
+"Add custom link if you want to use custom register page instead of sign up "
+"in popup"
+msgstr ""
+
+#: inc/options/option.php:3036
+msgid "Add custom redirect after login url"
+msgstr ""
+
+#: inc/options/option.php:3037
+#, php-format
+msgid ""
+"You can also use placeholder %%userlogin%% in url, which will be replaced by "
+"user login"
+msgstr ""
+
+#: inc/options/option.php:3042
+msgid "Add additional login icon in header"
+msgstr ""
+
+#: inc/options/option.php:3043
+msgid ""
+"You can also add login-register link to any place with shortcode "
+"[wpsm_user_modal]"
+msgstr ""
+
+#: inc/options/option.php:3047
+msgid "No additional icon"
+msgstr ""
+
+#: inc/options/option.php:3065
+msgid "Terms and conditions page url for popup"
+msgstr ""
+
+#: inc/options/option.php:3070
+msgid "Privacy Policy page url for popup"
+msgstr ""
+
+#: inc/options/option.php:3075
+msgid "Select url for post submit form"
+msgstr ""
+
+#: inc/options/option.php:3080
+msgid "Select label for post submit form"
+msgstr ""
+
+#: inc/options/option.php:3085
+msgid "Select url for post edit form"
+msgstr ""
+
+#: inc/options/option.php:3090
+msgid "Select label for post edit form"
+msgstr ""
+
+#: inc/options/option.php:3095
+msgid "Enable link on user profile in comment?"
+msgstr ""
+
+#: inc/options/option.php:3096
+msgid "Can slow a bit your site if you have many comments"
+msgstr ""
+
+#: inc/options/option.php:3102
+msgid "Synchronize one role to other"
+msgstr ""
+
+#: inc/options/option.php:3110
+msgid "Buddypress options"
+msgstr ""
+
+#: inc/options/option.php:3116
+msgid "BuddyPress"
+msgstr ""
+
+#: inc/options/option.php:3121
+msgid "Enable redirect to BP profiles?"
+msgstr ""
+
+#: inc/options/option.php:3122
+msgid ""
+"By default, user link goes to author page. You can redirect all author links "
+"from posts to BuddyPress profiles"
+msgstr ""
+
+#: inc/options/option.php:3128
+msgid "Add additional sidebar area for Group pages?"
+msgstr ""
+
+#: inc/options/option.php:3134
+msgid "Default background image in header. Recommended size 1900x260"
+msgstr ""
+
+#: inc/options/option.php:3141
+msgid "Synchronization between login popup and BP"
+msgstr ""
+
+#: inc/options/option.php:3142
+msgid "You can enable BP registration logic in theme login popup"
+msgstr ""
+
+#: inc/options/option.php:3146
+msgid "Disable email and BP activation"
+msgstr ""
+
+#: inc/options/option.php:3150
+msgid "Enable BP and email activation"
+msgstr ""
+
+#: inc/options/option.php:3160
+msgid "Add name of Xprofile field for seo Description"
+msgstr ""
+
+#: inc/options/option.php:3161 inc/options/option.php:3167
+msgid ""
+"You can create such field in Users - Profile fields if you have enabled "
+"Extended Profiles in Settings - Buddypress"
+msgstr ""
+
+#: inc/options/option.php:3166
+msgid "Add name of Xprofile field for Phone"
+msgstr ""
+
+#: inc/options/option.php:3172
+msgid "Add custom message or html in profile of User"
+msgstr ""
+
+#: inc/options/option.php:3173
+msgid ""
+"You can use shortcodes to show additional info inside Profile tab of user "
+"Profile. For example, shortcodes from S2Member plugin or any conditional "
+"information. If you want to show information for owner of profile, wrap it "
+"with shortcode [rh_is_bpmember_profile]Content[/rh_is_bpmember_profile]"
+msgstr ""
+
+#: inc/options/option.php:3179
+msgid "Posts Profile tab"
+msgstr ""
+
+#: inc/options/option.php:3184
+msgid "Add Name of Posts tab in Profile"
+msgstr ""
+
+#: inc/options/option.php:3189
+msgid "Add slug of Posts tab"
+msgstr ""
+
+#: inc/options/option.php:3190 inc/options/option.php:3247
+msgid "Use only latin symbols, without spaces"
+msgstr ""
+
+#: inc/options/option.php:3195 inc/options/option.php:3252
+msgid "Add position of tab"
+msgstr ""
+
+#: inc/options/option.php:3201
+msgid "Assign page for Add new posts"
+msgstr ""
+
+#: inc/options/option.php:3202
+msgid ""
+"Choose page where you have frontend form for posts. Content of this page "
+"will be assigned to tab. You can use bundled RH Frontend PRO to create such "
+"form."
+msgstr ""
+
+#: inc/options/option.php:3215
+msgid "Assign page for Edit Posts"
+msgstr ""
+
+#: inc/options/option.php:3216
+msgid ""
+"Choose page where you have EDIT form for posts. If you use RH Frontend Form, "
+"such page, usually, has shortcode like [wpfepp_post_table form=\"1\" "
+"show_all=0]"
+msgstr ""
+
+#: inc/options/option.php:3229 inc/options/option.php:3286
+msgid "Add member type"
+msgstr ""
+
+#: inc/options/option.php:3230 inc/options/option.php:3287
+msgid ""
+"If you want to show tab only for special member type, add here slug of this "
+"member type. Note, Buddypress member type is not the same as wordpress role"
+msgstr ""
+
+#: inc/options/option.php:3236
+msgid "Product Profile tab"
+msgstr ""
+
+#: inc/options/option.php:3241
+msgid "Add Name of Product tab in Profile"
+msgstr ""
+
+#: inc/options/option.php:3246
+msgid "Add slug of Product tab"
+msgstr ""
+
+#: inc/options/option.php:3258
+msgid "Assign page for Add new Product"
+msgstr ""
+
+#: inc/options/option.php:3259
+msgid ""
+"Choose page where you have frontend form for Product. Content of this page "
+"will be assigned to tab. You can use bundled RH Frontend PRO to create such "
+"form."
+msgstr ""
+
+#: inc/options/option.php:3272
+msgid "Assign page for Edit Product"
+msgstr ""
+
+#: inc/options/option.php:3273
+msgid ""
+"Choose page where you have EDIT form for products. If you use RH Frontend "
+"Form, such page, usually, has shortcode like [wpfepp_post_table form=\"1\" "
+"show_all=0]"
+msgstr ""
+
+#: inc/options/option.php:3293
+msgid "MyCred Options"
+msgstr ""
+
+#: inc/options/option.php:3298
+msgid "Enable badges from MyCred plugin in comments for Buddypress?"
+msgstr ""
+
+#: inc/options/option.php:3299
+msgid "Can slow your activity pages"
+msgstr ""
+
+#: inc/options/option.php:3305
+msgid "Enable badges, points, ranks from MyCred plugin in regular comments?"
+msgstr ""
+
+#: inc/options/option.php:3306
+msgid "Can slow your single pages"
+msgstr ""
+
+#: inc/options/option.php:3312
+msgid "Show custom point type instead default"
+msgstr ""
+
+#: inc/options/option.php:3317
+msgid "Give user roles for their Mycred Points"
+msgstr ""
+
+#: inc/options/option.php:3318
+msgid ""
+"If you use MyCred plugin and want to give user new role once he gets "
+"definite points, you can use this area. Syntaxis is next: role:1000. Where "
+"role is role which you want to give and 1000 is amount of points to get this "
+"role. Place each role with next line. Place them in ASC mode. First line, "
+"for example, 10 points, next is 100. Function also works as opposite. "
+msgstr ""
+
+#: inc/options/option.php:3323
+msgid "Give BP member types instead of roles?"
+msgstr ""
+
+#: inc/options/option.php:3324
+msgid ""
+"If you want to give users member types instead of roles which are set above, "
+"enable this"
+msgstr ""
+
+#: inc/options/option.php:3332
+msgid "Dynamic comparison"
+msgstr ""
+
+#: inc/options/option.php:3338
+msgid "Add common page for comparison"
+msgstr ""
+
+#: inc/options/option.php:3343
+msgid "Select page for comparison"
+msgstr ""
+
+#: inc/options/option.php:3344
+msgid ""
+"Page must have top chart constructor page template or shortcode "
+"[wpsm_woocharts]. We recommend to set page as full width in right panel of "
+"Edit page area"
+msgstr ""
+
+#: inc/options/option.php:3358
+msgid "Options for multigroup dynamic comparison"
+msgstr ""
+
+#: inc/options/option.php:3363
+msgid "Assign categories to pages"
+msgstr ""
+
+#: inc/options/option.php:3364
+msgid ""
+"Use this option if you want to have different comparison groups. Create "
+"separate pages for each group. Then, use next syntaxis: 1,2,3;Title;23, "
+"where 1,2,3 - category IDs, Title - a general name for category group, 23 - "
+"a page ID of comparison. You can add also custom taxonomy in the end. By "
+"default, product categories will be used. Delimiter is \";\""
+msgstr ""
+
+#: inc/options/option.php:3370
+msgid "Common"
+msgstr ""
+
+#: inc/options/option.php:3375
+msgid "Disable button in right side"
+msgstr ""
+
+#: inc/options/option.php:3376
+msgid ""
+"You can disable button with compare icon on right side of site. You can "
+"place this icon in header. Use Shop/Comparison header in theme option - "
+"header and menu - Header layout"
+msgstr ""
+
+#: inc/options/option.php:3381
+msgid ""
+"Set ids of product categories where to show button. Leave blank to show in "
+"all products"
+msgstr ""
+
+#: inc/options/option.php:3388
+msgid "Custom badges for posts"
+msgstr ""
+
+#: inc/options/option.php:3394
+msgid "First badge"
+msgstr ""
+
+#: inc/options/option.php:3408 includes/option_helpers.php:328
+#: includes/theme_metabox.php:876
+msgid "Editor choice"
+msgstr ""
+
+#: inc/options/option.php:3414 inc/options/option.php:3441
+#: inc/options/option.php:3468 inc/options/option.php:3495
+msgid "Color"
+msgstr ""
+
+#: inc/options/option.php:3421
+msgid "Second badge"
+msgstr ""
+
+#: inc/options/option.php:3435 includes/option_helpers.php:332
+#: includes/theme_metabox.php:877
+msgid "Best seller"
+msgstr ""
+
+#: inc/options/option.php:3448
+msgid "Third badge"
+msgstr ""
+
+#: inc/options/option.php:3462 includes/option_helpers.php:336
+#: includes/theme_metabox.php:878
+msgid "Best value"
+msgstr ""
+
+#: inc/options/option.php:3475
+msgid "Fourth badge"
+msgstr ""
+
+#: inc/options/option.php:3489 includes/option_helpers.php:340
+#: includes/theme_metabox.php:879
+msgid "Best price"
+msgstr ""
+
+#: inc/options/option.php:3503
+msgid "Social Media Options"
+msgstr ""
+
+#: inc/options/option.php:3509
+msgid "Social Media Pages"
+msgstr ""
+
+#: inc/options/option.php:3514
+msgid "Facebook link"
+msgstr ""
+
+#: inc/options/option.php:3520
+msgid "Twitter link"
+msgstr ""
+
+#: inc/options/option.php:3526
+msgid "Instagram link"
+msgstr ""
+
+#: inc/options/option.php:3532
+msgid "WhatsApp link"
+msgstr ""
+
+#: inc/options/option.php:3538
+msgid "Youtube link"
+msgstr ""
+
+#: inc/options/option.php:3544
+msgid "Vimeo link"
+msgstr ""
+
+#: inc/options/option.php:3550
+msgid "Pinterest link"
+msgstr ""
+
+#: inc/options/option.php:3556
+msgid "Linkedin link"
+msgstr ""
+
+#: inc/options/option.php:3562
+msgid "Soundcloud link"
+msgstr ""
+
+#: inc/options/option.php:3568
+msgid "Vk.com link"
+msgstr ""
+
+#: inc/options/option.php:3574
+msgid "Telegram link"
+msgstr ""
+
+#: inc/options/option.php:3580
+msgid "Discord link"
+msgstr ""
+
+#: inc/options/option.php:3586
+msgid "Rss link"
+msgstr ""
+
+#: inc/options/option_additional.php:6 inc/options/option_additional.php:61
+msgid "Additional links for Vendor panel"
+msgstr ""
+
+#: inc/options/option_additional.php:12
+msgid "Additional options"
+msgstr ""
+
+#: inc/options/option_additional.php:17
+msgid "Add url of first menu item"
+msgstr ""
+
+#: inc/options/option_additional.php:22
+msgid "Add label of first menu item"
+msgstr ""
+
+#: inc/options/option_additional.php:27
+msgid "Add url of second menu item"
+msgstr ""
+
+#: inc/options/option_additional.php:32
+msgid "Add label of second menu item"
+msgstr ""
+
+#: inc/options/option_additional.php:37
+msgid "Add url of third menu item"
+msgstr ""
+
+#: inc/options/option_additional.php:42
+msgid "Add label of third menu item"
+msgstr ""
+
+#: inc/options/option_additional.php:47
+msgid "Add url of fourth menu item"
+msgstr ""
+
+#: inc/options/option_additional.php:52
+msgid "Add label of fourth menu item"
+msgstr ""
+
+#: inc/options/option_additional.php:67
+msgid "Vendor settings"
+msgstr ""
+
+#: inc/options/option_additional.php:72
+msgid "Add url of submit product page"
+msgstr ""
+
+#: inc/options/option_additional.php:73
+msgid ""
+"Use it if you want to change default submit page of WC Vendor Free. You can "
+"use our RH Frontend PRO plugin to create frontend form for woocommerce. Find "
+"it in Rehub-Plugins"
+msgstr ""
+
+#: inc/options/option_additional.php:78
+msgid "Add url of edit product page"
+msgstr ""
+
+#: inc/options/option_additional.php:87
+msgid "Re pick settings"
+msgstr ""
+
+#: inc/options/option_additional.php:93
+msgid "Common options"
+msgstr ""
+
+#: inc/options/option_additional.php:98
+msgid "Enable this option if you use white background"
+msgstr ""
+
+#: inc/options/option_additional.php:104
+msgid "Select Image size in grid"
+msgstr ""
+
+#: inc/options/option_additional.php:108
+msgid "Images contain full container"
+msgstr ""
+
+#: inc/options/option_additional.php:112
+msgid "Full images without crop"
+msgstr ""
+
+#: inc/options/option_additional.php:123
+msgid "Add ads code after each N item in grid"
+msgstr ""
+
+#: inc/options/option_additional.php:170
+msgid "Ads code to insert in grid item"
+msgstr ""
+
+#: inc/options/option_additional.php:176
+msgid "Set descriptions for item with ads."
+msgstr ""
+
+#: inc/options/option_additional.php:177
+msgid ""
+"Add simple text, each text stroke from next line. Text will be used randomly"
+msgstr ""
+
+#: inc/options/option_additional.php:182
+msgid "Specify text for search link for Amazon"
+msgstr ""
+
+#: inc/options/option_additional.php:183 inc/options/option_additional.php:201
+msgid "This is used in top offer block"
+msgstr ""
+
+#: inc/options/option_additional.php:188
+msgid "Specify generated search url for Amazon"
+msgstr ""
+
+#: inc/options/option_additional.php:194
+msgid "Specify generated search url for Ebay"
+msgstr ""
+
+#: inc/options/option_additional.php:200
+msgid "Specify text for search link for Ebay"
+msgstr ""
+
+#: inc/options/option_additional.php:206
+msgid "Make link from image to affiliate post instead link to post"
+msgstr ""
+
+#: inc/options/option_additional.php:212
+msgid "Make link from title to affiliate post instead link to post"
+msgstr ""
+
+#: inc/templates/woo-group-attributes-public.php:111
+#: inc/templates/woo-group-attributes-public.php:124
+msgid "Dimensions"
+msgstr ""
+
+#: inc/templates/woo-group-attributes-public.php:118
+msgid "Weight"
+msgstr ""
+
+#: inc/widgets/better_menu.php:16
+msgid "Widget displays menu in good way. "
+msgstr ""
+
+#: inc/widgets/better_menu.php:18
+msgid "ReHub: Better menu"
+msgstr ""
+
+#: inc/widgets/better_menu.php:127
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: inc/widgets/better_menu.php:134 inc/widgets/condition_widget.php:91
+#: inc/widgets/dealwoo.php:362 inc/widgets/featured_sidebar.php:170
+#: inc/widgets/imagetrend_sidebar.php:120 inc/widgets/latest_comparison.php:125
+#: inc/widgets/posts_list.php:173 inc/widgets/related_reviews.php:112
+#: inc/widgets/social_link_widget.php:66 inc/widgets/sticky_scroll.php:119
+#: inc/widgets/tabsajax_widget.php:169 inc/widgets/top_offers.php:91
+#: inc/widgets/user_profile.php:135
+msgid "Title of widget:"
+msgstr ""
+
+#: inc/widgets/better_menu.php:140
+msgid "Icon before title:"
+msgstr ""
+
+#: inc/widgets/better_menu.php:142
+msgid "No icon"
+msgstr ""
+
+#: inc/widgets/better_menu.php:143
+msgid "Heart"
+msgstr ""
+
+#: inc/widgets/better_menu.php:144
+msgid "Life Ring"
+msgstr ""
+
+#: inc/widgets/better_menu.php:145
+msgid "Diamond"
+msgstr ""
+
+#: inc/widgets/better_menu.php:146
+msgid "Flash"
+msgstr ""
+
+#: inc/widgets/better_menu.php:153
+msgid "Design of widget box:"
+msgstr ""
+
+#: inc/widgets/better_menu.php:155 includes/option_helpers.php:397
+msgid "Simple"
+msgstr ""
+
+#: inc/widgets/better_menu.php:156
+msgid "Bordered"
+msgstr ""
+
+#: inc/widgets/better_menu.php:157
+msgid "Red"
+msgstr ""
+
+#: inc/widgets/better_menu.php:158
+msgid "Green"
+msgstr ""
+
+#: inc/widgets/better_menu.php:159
+msgid "Blue"
+msgstr ""
+
+#: inc/widgets/better_menu.php:161
+msgid "Violet"
+msgstr ""
+
+#: inc/widgets/better_menu.php:165
+msgid "Select Menu:"
+msgstr ""
+
+#: inc/widgets/better_menu.php:167
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/widgets/condition_widget.php:16
+msgid "Widget allows to show content only on single pages."
+msgstr ""
+
+#: inc/widgets/condition_widget.php:18
+msgid "ReHub: Show only in singular pages"
+msgstr ""
+
+#: inc/widgets/condition_widget.php:95
+msgid "Type post type where to show content. Default is post."
+msgstr ""
+
+#: inc/widgets/condition_widget.php:99 inc/widgets/sticky_scroll.php:127
+msgid ""
+"Type post ID or slug if you want to have widget only there. You can set "
+"several ids with comma"
+msgstr ""
+
+#: inc/widgets/condition_widget.php:103
+msgid "Enable only in posts with review?"
+msgstr ""
+
+#: inc/widgets/condition_widget.php:107 inc/widgets/outer_ads.php:117
+#: inc/widgets/sticky_scroll.php:131
+msgid "Text or Html code :"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:16
+msgid ""
+"Displays \"deal of the day\" (WC Product or Post Offers). Use only in "
+"sidebar!"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:18
+msgid "ReHub: Deal of day"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:116 inc/widgets/featured_sidebar.php:72
+msgid "Featured!"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:127 inc/widgets/featured_sidebar.php:84
+msgid "Sale!"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:168 inc/widgets/dealwoo.php:265
+msgid "Already Sold:"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:171 inc/widgets/dealwoo.php:268
+msgid "Available:"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:309
+msgid "No products for this criteria."
+msgstr ""
+
+#: inc/widgets/dealwoo.php:346
+msgid "Deal of the day"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:353
+msgid "Hurry Up! Offer ends soon."
+msgstr ""
+
+#: inc/widgets/dealwoo.php:367
+msgid "Post type:"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:370
+msgid "Post"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:375
+msgid "Ids of product to show:"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:377
+msgid ""
+"By default, widget shows latest product which is on sale, you can specify "
+"product ID to overwrite this. You can set several ids if you enable "
+"carousel. Divide them by commas"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:381
+msgid "Set fake timer:"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:383
+msgid ""
+"By default, widget shows countdown base on Sale price dates of product. You "
+"can enable fake timer (always shows 12 hours)"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:387
+msgid "Add marketing text:"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:392
+msgid "Set fake sold bar:"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:395
+msgid "Sold:"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:397
+msgid "In Stock:"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:399
+msgid ""
+"By default, widget shows real progress bar based on stock status, you can "
+"enable fake bar"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:402
+msgid "Enable carousel?"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:407
+msgid "Enable Auto rotation?"
+msgstr ""
+
+#: inc/widgets/dealwoo.php:412
+msgid "Number of posts in carousel"
+msgstr ""
+
+#: inc/widgets/featured_sidebar.php:16
+msgid ""
+"Widget that displays custom featured slider of posts or products. Use only "
+"in sidebar!"
+msgstr ""
+
+#: inc/widgets/featured_sidebar.php:18
+msgid "ReHub: Featured Slider"
+msgstr ""
+
+#: inc/widgets/featured_sidebar.php:124
+msgid "SCORE"
+msgstr ""
+
+#: inc/widgets/featured_sidebar.php:136 inc/widgets/posts_list.php:135
+msgid "No posts for this criteria."
+msgstr ""
+
+#: inc/widgets/featured_sidebar.php:165
+msgid "Featured"
+msgstr ""
+
+#: inc/widgets/featured_sidebar.php:175 inc/widgets/imagetrend_sidebar.php:125
+#: inc/widgets/posts_list.php:199 inc/widgets/related_reviews.php:116
+#: inc/widgets/top_offers.php:96
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/featured_sidebar.php:180 inc/widgets/imagetrend_sidebar.php:129
+#: inc/widgets/posts_list.php:183 inc/widgets/top_offers.php:111
+msgid "Enter tag slug:"
+msgstr ""
+
+#: inc/widgets/featured_sidebar.php:184
+msgid "Show woocommerce products"
+msgstr ""
+
+#: inc/widgets/imagetrend_sidebar.php:16
+msgid "Widget that displays image grid posts. Use only in sidebar!"
+msgstr ""
+
+#: inc/widgets/imagetrend_sidebar.php:18
+msgid "ReHub: Image grid posts"
+msgstr ""
+
+#: inc/widgets/imagetrend_sidebar.php:115
+msgid "Trending"
+msgstr ""
+
+#: inc/widgets/imagetrend_sidebar.php:133
+msgid "Disable headings  ?"
+msgstr ""
+
+#: inc/widgets/imagetrend_sidebar.php:137
+msgid "Two column?"
+msgstr ""
+
+#: inc/widgets/latest_comparison.php:16
+msgid ""
+"Widget displays latest comparisons for woocommerce products, you must use "
+"shortcode [wpsm_woocharts] on comparison page to count products. Use only in "
+"sidebar!"
+msgstr ""
+
+#: inc/widgets/latest_comparison.php:18
+msgid "ReHub: Latest Woo Comparisons"
+msgstr ""
+
+#: inc/widgets/latest_comparison.php:66 inc/widgets/latest_comparison.php:84
+msgid "Compare"
+msgstr ""
+
+#: inc/widgets/latest_comparison.php:121
+msgid "Latest Comparisons"
+msgstr ""
+
+#: inc/widgets/latest_comparison.php:130
+msgid "Number of products (maximum is 10)"
+msgstr ""
+
+#: inc/widgets/outer_ads.php:16
+msgid "Outcontent side ads widget."
+msgstr ""
+
+#: inc/widgets/outer_ads.php:18
+msgid "ReHub: Side Out Ads widget"
+msgstr ""
+
+#: inc/widgets/outer_ads.php:98 inc/widgets/tabs_widget.php:155
+#: inc/widgets/tabsajax_widget.php:167
+msgid "Use this widget only in sidebar area!"
+msgstr ""
+
+#: inc/widgets/outer_ads.php:100
+msgid "Width of ads (without px):"
+msgstr ""
+
+#: inc/widgets/outer_ads.php:104
+msgid "Right Side ?"
+msgstr ""
+
+#: inc/widgets/outer_ads.php:108
+msgid "Disable fixed position?"
+msgstr ""
+
+#: inc/widgets/outer_ads.php:112
+msgid "Margin from top of page (without px):"
+msgstr ""
+
+#: inc/widgets/outer_ads.php:115
+msgid ""
+"Note, if you disable fixed position, margin will be calculated from top of "
+"content area"
+msgstr ""
+
+#: inc/widgets/posts_list.php:16
+msgid "A widget that displays custom posts list. Use only in sidebar!"
+msgstr ""
+
+#: inc/widgets/posts_list.php:18
+msgid "ReHub: Posts List"
+msgstr ""
+
+#: inc/widgets/posts_list.php:168
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/posts_list.php:178
+msgid "Filter by Category ID:"
+msgstr ""
+
+#: inc/widgets/posts_list.php:188
+msgid "Posts sort by:"
+msgstr ""
+
+#: inc/widgets/posts_list.php:190 inc/widgets/tabsajax_widget.php:180
+#: inc/widgets/tabsajax_widget.php:203 inc/widgets/tabsajax_widget.php:226
+#: inc/widgets/tabsajax_widget.php:249
+msgid "all time"
+msgstr ""
+
+#: inc/widgets/posts_list.php:191
+msgid "this week"
+msgstr ""
+
+#: inc/widgets/posts_list.php:192
+msgid "this month"
+msgstr ""
+
+#: inc/widgets/posts_list.php:193
+msgid "last 3 month"
+msgstr ""
+
+#: inc/widgets/posts_list.php:194
+msgid "random"
+msgstr ""
+
+#: inc/widgets/posts_list.php:204
+msgid "Post Format:"
+msgstr ""
+
+#: inc/widgets/posts_list.php:206 includes/option_helpers.php:59
+msgid "all"
+msgstr ""
+
+#: inc/widgets/posts_list.php:207 includes/option_helpers.php:64
+msgid "regular"
+msgstr ""
+
+#: inc/widgets/posts_list.php:208 includes/option_helpers.php:68
+msgid "video"
+msgstr ""
+
+#: inc/widgets/posts_list.php:209 includes/option_helpers.php:72
+msgid "gallery"
+msgstr ""
+
+#: inc/widgets/posts_list.php:210 includes/option_helpers.php:76
+msgid "review"
+msgstr ""
+
+#: inc/widgets/posts_list.php:211 includes/option_helpers.php:80
+msgid "music"
+msgstr ""
+
+#: inc/widgets/posts_list.php:216
+msgid "Post type (optional)"
+msgstr ""
+
+#: inc/widgets/posts_list.php:222 inc/widgets/tabs_widget.php:205
+msgid "Dark Skin ?"
+msgstr ""
+
+#: inc/widgets/related_reviews.php:16
+msgid ""
+"A widget that displays related reviews. Works only on single review post page"
+msgstr ""
+
+#: inc/widgets/related_reviews.php:18
+msgid "ReHub: Related Reviews"
+msgstr ""
+
+#: inc/widgets/related_reviews.php:107
+msgid "Related reviews"
+msgstr ""
+
+#: inc/widgets/social_link_widget.php:16
+msgid "Widget that displays advanced meta area. Use only in sidebar!"
+msgstr ""
+
+#: inc/widgets/social_link_widget.php:18
+msgid "ReHub: Social icons"
+msgstr ""
+
+#: inc/widgets/social_link_widget.php:62
+msgid "Follow Us"
+msgstr ""
+
+#: inc/widgets/social_link_widget.php:64
+msgid ""
+"Links on social profiles you can set at Rehub Theme Options - Social media "
+"options"
+msgstr ""
+
+#: inc/widgets/sticky_scroll.php:16
+msgid "Widget that sticks after sidebar scroll. Use only in sidebar!"
+msgstr ""
+
+#: inc/widgets/sticky_scroll.php:18
+msgid "ReHub: Sticky on scroll"
+msgstr ""
+
+#: inc/widgets/sticky_scroll.php:117
+msgid "Use this widget only once and only in sidebar area!"
+msgstr ""
+
+#: inc/widgets/sticky_scroll.php:123
+msgid ""
+"Type post type where to show content. This option shows content only on "
+"inner (singular) pages. For example, if you need to show only in Posts, use: "
+"post. For blog - type: blog"
+msgstr ""
+
+#: inc/widgets/sticky_scroll.php:135
+msgid "Show Table of content for posts?"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:16
+msgid ""
+"A widget that displays 2 tabs (popular, categories, tags, latest comments). "
+"Use only in sidebar! "
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:18
+msgid "ReHub: Tabs"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:116
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:116 inc/widgets/tabs_widget.php:190
+#: inc/widgets/tabs_widget.php:199
+msgid "Comments"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:158
+msgid "Content for 1 tab"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:160 inc/widgets/tabs_widget.php:170
+msgid "Popular posts"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:161 inc/widgets/tabs_widget.php:171
+msgid "Latest comments"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:162 inc/widgets/tabs_widget.php:172
+msgid "Category list"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:163 inc/widgets/tabs_widget.php:173
+msgid "Tags cloud"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:168
+msgid "Content for 2 tab"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:177 inc/widgets/tabsajax_widget.php:173
+msgid "Enter title for first tab:"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:179
+msgid "Note, maximum 15 symbols!"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:182 inc/widgets/tabsajax_widget.php:196
+msgid "Enter title for second tab"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:187
+msgid "Popular posts for tab 1 based on:"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:189 inc/widgets/tabs_widget.php:198
+msgid "Post hot count"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:191 inc/widgets/tabs_widget.php:200
+msgid "Post views"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:193 inc/widgets/tabs_widget.php:202
+msgid "Note, post views may not work if you use cache plugins!"
+msgstr ""
+
+#: inc/widgets/tabs_widget.php:196
+msgid "Popular posts for tab 2 based on:"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:16
+msgid "A widget that displays 4 ajax tabs. Use only in sidebar! "
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:18
+msgid "ReHub: Ajax Tabs"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:175 inc/widgets/tabsajax_widget.php:198
+#: install/index.php:358
+msgid "Required"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:178
+msgid "Show posts for first tab published:"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:181 inc/widgets/tabsajax_widget.php:204
+#: inc/widgets/tabsajax_widget.php:227 inc/widgets/tabsajax_widget.php:250
+msgid "For last 24 hours"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:182 inc/widgets/tabsajax_widget.php:205
+#: inc/widgets/tabsajax_widget.php:228 inc/widgets/tabsajax_widget.php:251
+msgid "For last 7 days"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:183 inc/widgets/tabsajax_widget.php:206
+#: inc/widgets/tabsajax_widget.php:229 inc/widgets/tabsajax_widget.php:252
+msgid "For last month"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:184 inc/widgets/tabsajax_widget.php:207
+#: inc/widgets/tabsajax_widget.php:230 inc/widgets/tabsajax_widget.php:253
+msgid "For last year"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:188
+msgid "Enter meta for first tab"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:201
+msgid "Show posts for second tab published:"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:211
+msgid "Enter meta for second tab"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:220
+msgid "Enter title for third tab"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:224
+msgid "Show posts for third tab published:"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:234
+msgid "Enter meta for third tab"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:243
+msgid "Enter title for fourth tab"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:247
+msgid "Show posts for fourth tab published:"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:257
+msgid "Enter meta for fourth tab"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:264
+msgid "Show Hot counter?"
+msgstr ""
+
+#: inc/widgets/tabsajax_widget.php:268
+msgid "Show price"
+msgstr ""
+
+#: inc/widgets/top_offers.php:16
+msgid "Widget displays top offers. Use only in sidebar!"
+msgstr ""
+
+#: inc/widgets/top_offers.php:18
+msgid "ReHub: Top Offers/Products"
+msgstr ""
+
+#: inc/widgets/top_offers.php:86
+msgid "Top offers"
+msgstr ""
+
+#: inc/widgets/top_offers.php:101 inc/widgets/woocategory.php:203
+msgid "Widget is based on:"
+msgstr ""
+
+#: inc/widgets/top_offers.php:104 inc/widgets/woocategory.php:205
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/widgets/top_offers.php:108
+msgid ""
+"If you select Widget base on posts or woocommerce, enter tag slug in field "
+"below. Also, you can set name of meta key for ordering or show random "
+"products"
+msgstr ""
+
+#: inc/widgets/top_offers.php:116
+msgid "Meta key name for ordering:"
+msgstr ""
+
+#: inc/widgets/top_offers.php:121
+msgid "Order for field above:"
+msgstr ""
+
+#: inc/widgets/top_offers.php:123
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/top_offers.php:124
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/top_offers.php:128
+msgid "Show compare button instead offer button?"
+msgstr ""
+
+#: inc/widgets/top_offers.php:133
+msgid "Show random?"
+msgstr ""
+
+#: inc/widgets/top_offers.php:137
+msgid "Exclude expired?"
+msgstr ""
+
+#: inc/widgets/user_profile.php:16
+msgid ""
+"Widget that displays User Profile on Vendor Store page. Use only in vendor "
+"sidebar area!"
+msgstr ""
+
+#: inc/widgets/user_profile.php:18
+msgid "ReHub: User Profile"
+msgstr ""
+
+#: inc/widgets/user_profile.php:62
+msgid "Registration"
+msgstr ""
+
+#: inc/widgets/user_profile.php:63
+msgid "Product Votes"
+msgstr ""
+
+#: inc/widgets/user_profile.php:64
+msgid "Total submitted"
+msgstr ""
+
+#: inc/widgets/user_profile.php:103
+msgid "Show full profile"
+msgstr ""
+
+#: inc/widgets/user_profile.php:131
+msgid "Shop owner:"
+msgstr ""
+
+#: inc/widgets/user_profile.php:133
+msgid "Use only for vendor store widget area"
+msgstr ""
+
+#: inc/widgets/woocategory.php:16
+msgid "Better categories. Use only in sidebar!"
+msgstr ""
+
+#: inc/widgets/woocategory.php:18
+msgid "ReHub: Better categories"
+msgstr ""
+
+#: inc/widgets/woocategory.php:29
+msgid "Show All Categories"
+msgstr ""
+
+#: inc/widgets/woocategory.php:30
+msgid "Browse Categories"
+msgstr ""
+
+#: inc/widgets/woocategory.php:145
+msgid "No product categories exist."
+msgstr ""
+
+#: inc/widgets/woocategory.php:207 includes/taxonomy_cpt.php:106
+msgid "Blog posts"
+msgstr ""
+
+#: inc/widgets/woocategory.php:212
+msgid "Label for show all category text:"
+msgstr ""
+
+#: inc/widgets/woocategory.php:217
+msgid "Label for browse categories text:"
+msgstr ""
+
+#: inc/widgets/woocategory.php:222
+msgid "Hide empty categories"
+msgstr ""
+
+#: inc/widgets/woocategory.php:227
+msgid "Show count of products"
+msgstr ""
+
+#: includes/customizer.php:156
+msgid "ReHub Control Center"
+msgstr ""
+
+#: includes/customizer.php:181
+msgid "Compact"
+msgstr ""
+
+#: includes/customizer.php:197
+msgid "Redeal"
+msgstr ""
+
+#: includes/customizer.php:230
+msgid "Background hightligh color"
+msgstr ""
+
+#: includes/customizer.php:242
+msgid "Set offer buttons color"
+msgstr ""
+
+#: includes/customizer.php:250
+msgid "Set offer button hover color"
+msgstr ""
+
+#: includes/customizer.php:259
+msgid "Set offer button text color"
+msgstr ""
+
+#: includes/customizer.php:267
+msgid "Set offer button text Hover color"
+msgstr ""
+
+#: includes/customizer.php:287
+msgid "Enable smooth design for inputs?"
+msgstr ""
+
+#: includes/customizer.php:292 includes/customizer.php:309
+#: includes/customizer.php:325 includes/customizer.php:341
+#: includes/customizer.php:356 includes/customizer.php:428
+#: includes/customizer.php:611 includes/customizer.php:635
+#: includes/customizer.php:649 includes/customizer.php:663
+#: includes/customizer.php:678 includes/customizer.php:735
+#: includes/customizer.php:751 includes/customizer.php:813
+#: includes/customizer.php:828 includes/customizer.php:842
+#: includes/customizer.php:883 includes/customizer.php:1025
+#: includes/customizer.php:1041 includes/customizer.php:1057
+#: includes/customizer.php:1074 includes/customizer.php:1113
+#: includes/customizer.php:1188 includes/customizer.php:1340
+#: includes/customizer.php:1373 includes/customizer.php:1387
+#: includes/customizer.php:1401
+msgid "Off"
+msgstr ""
+
+#: includes/customizer.php:310 includes/customizer.php:326
+#: includes/customizer.php:342 includes/customizer.php:357
+#: includes/customizer.php:429 includes/customizer.php:612
+#: includes/customizer.php:636 includes/customizer.php:650
+#: includes/customizer.php:664 includes/customizer.php:679
+#: includes/customizer.php:736 includes/customizer.php:752
+#: includes/customizer.php:814 includes/customizer.php:829
+#: includes/customizer.php:843 includes/customizer.php:884
+#: includes/customizer.php:1026 includes/customizer.php:1042
+#: includes/customizer.php:1058 includes/customizer.php:1075
+#: includes/customizer.php:1114 includes/customizer.php:1189
+#: includes/customizer.php:1341 includes/customizer.php:1374
+#: includes/customizer.php:1388 includes/customizer.php:1402
+msgid "On"
+msgstr ""
+
+#: includes/customizer.php:351
+msgid "Enable dark theme?"
+msgstr ""
+
+#: includes/customizer.php:377
+msgid "Set background color before it"
+msgstr ""
+
+#: includes/customizer.php:504 install/index.php:852
+msgid "Background color under logo"
+msgstr ""
+
+#: includes/customizer.php:516
+msgid ""
+"Upload retina version of the logo. It should be 2x the size of main logo."
+msgstr ""
+
+#: includes/customizer.php:538
+msgid "Retina logo height"
+msgstr ""
+
+#: includes/customizer.php:585
+msgid "Select Header style"
+msgstr ""
+
+#: includes/customizer.php:770
+msgid "orange"
+msgstr ""
+
+#: includes/customizer.php:772
+msgid "blue"
+msgstr ""
+
+#: includes/customizer.php:774
+msgid "rosy"
+msgstr ""
+
+#: includes/customizer.php:775
+msgid "brown"
+msgstr ""
+
+#: includes/customizer.php:776
+msgid "pink"
+msgstr ""
+
+#: includes/customizer.php:777
+msgid "purple"
+msgstr ""
+
+#: includes/customizer.php:784
+msgid "Submit a deal"
+msgstr ""
+
+#: includes/customizer.php:853
+msgid "Enable additional menu near logo"
+msgstr ""
+
+#: includes/customizer.php:864
+msgid "Set padding from top and bottom"
+msgstr ""
+
+#: includes/customizer.php:905
+msgid "Color style of header logo section"
+msgstr ""
+
+#: includes/customizer.php:976
+msgid "Color style of header menu section"
+msgstr ""
+
+#: includes/customizer.php:1108
+msgid "You can enable top line"
+msgstr ""
+
+#: includes/customizer.php:1160
+msgid "Top line content"
+msgstr ""
+
+#: includes/customizer.php:1284
+msgid "2018 Wpsoul.com Design. All rights reserved."
+msgstr ""
+
+#: includes/customizer.php:1309
+msgid "Woocommerce archive settings"
+msgstr ""
+
+#: includes/customizer.php:1428
+msgid ""
+"You can set Button color in Theme options - Apearance - Offer Button color"
+msgstr ""
+
+#: includes/customizer.php:1474
+msgid "Woocommerce Custom Areas"
+msgstr ""
+
+#: includes/customizer.php:1531
+msgid "Woocommerce Global Settings"
+msgstr ""
+
+#: includes/customizer.php:1536 includes/option_helpers.php:462
+#: includes/theme_metabox.php:849
+msgid "Default with sidebar"
+msgstr ""
+
+#: includes/customizer.php:1537 includes/theme_metabox.php:850
+msgid "Default full width 2 column"
+msgstr ""
+
+#: includes/customizer.php:1538 includes/theme_metabox.php:851
+msgid "Default full width 3 column"
+msgstr ""
+
+#: includes/customizer.php:1539 includes/option_helpers.php:474
+#: includes/theme_metabox.php:852
+msgid "Full width Extended"
+msgstr ""
+
+#: includes/customizer.php:1540 includes/option_helpers.php:478
+#: includes/theme_metabox.php:853
+msgid "Full width Advanced"
+msgstr ""
+
+#: includes/customizer.php:1541 includes/option_helpers.php:482
+#: includes/theme_metabox.php:854
+msgid "Side Block"
+msgstr ""
+
+#: includes/customizer.php:1542 includes/option_helpers.php:486
+#: includes/theme_metabox.php:855
+msgid "Side Block Light"
+msgstr ""
+
+#: includes/customizer.php:1543 includes/option_helpers.php:417
+#: includes/option_helpers.php:490 includes/theme_metabox.php:856
+msgid "Video Block"
+msgstr ""
+
+#: includes/customizer.php:1544 includes/option_helpers.php:510
+#: includes/theme_metabox.php:857
+msgid "Sections with sidebar"
+msgstr ""
+
+#: includes/customizer.php:1545 includes/option_helpers.php:506
+#: includes/theme_metabox.php:858
+msgid "Content Egg List"
+msgstr ""
+
+#: includes/customizer.php:1546 includes/option_helpers.php:514
+#: includes/theme_metabox.php:859
+msgid "Content Egg Auto Sections"
+msgstr ""
+
+#: includes/customizer.php:1547 includes/option_helpers.php:494
+#: includes/theme_metabox.php:860
+msgid "Review with Blocks"
+msgstr ""
+
+#: includes/customizer.php:1548 includes/theme_metabox.php:861
+msgid "Compare Prices with shortcode"
+msgstr ""
+
+#: includes/customizer.php:1549 includes/option_helpers.php:502
+#: includes/theme_metabox.php:862
+msgid "Compare Prices by sku"
+msgstr ""
+
+#: includes/customizer.php:1550 includes/option_helpers.php:518
+#: includes/theme_metabox.php:863
+msgid "Full width Photo"
+msgstr ""
+
+#: includes/customizer.php:1551 includes/option_helpers.php:522
+#: includes/theme_metabox.php:864
+msgid "Compact Style"
+msgstr ""
+
+#: includes/customizer.php:1552 includes/option_helpers.php:526
+#: includes/theme_metabox.php:865
+msgid "Directory Style"
+msgstr ""
+
+#: includes/helper-functions.php:309 install/index.php:218
+#: install/index.php:244 install/index.php:270 install/index.php:295
+msgid "Save"
+msgstr ""
+
+#: includes/helper-functions.php:310
+msgid "Saved"
+msgstr ""
+
+#: includes/helper-functions.php:311
+msgid "Removed"
+msgstr ""
+
+#: includes/helper-functions.php:337
+msgid "Check out:"
+msgstr ""
+
+#: includes/helper-functions.php:399 includes/helper-functions.php:401
+msgid "Vote down"
+msgstr ""
+
+#: includes/helper-functions.php:405 includes/helper-functions.php:407
+msgid "Vote up"
+msgstr ""
+
+#: includes/option_helpers.php:220
+msgid "You can use shortcode to insert this top table to another page"
+msgstr ""
+
+#: includes/option_helpers.php:220
+msgid ""
+"Delete full_width attribute if you insert shortcode in page with sidebar. "
+"You can add also post_ids parameter for manual adding and sorting some "
+"posts. Example [wpsm_toptable id=22 post_ids=11,12,13], where id=22 is id of "
+"current table page and 11,12,13 are ids of posts which you want to include "
+"in table"
+msgstr ""
+
+#: includes/option_helpers.php:228
+msgid "You can use shortcode to insert this top charts to another page"
+msgstr ""
+
+#: includes/option_helpers.php:319
+msgid "Add badge"
+msgstr ""
+
+#: includes/option_helpers.php:320
+msgid "You can customize badges in theme option"
+msgstr ""
+
+#: includes/option_helpers.php:401
+msgid "Optimized Full width"
+msgstr ""
+
+#: includes/option_helpers.php:405
+msgid "Title is outside content"
+msgstr ""
+
+#: includes/option_helpers.php:409
+msgid "Gutenberg Auto Contents"
+msgstr ""
+
+#: includes/option_helpers.php:413
+msgid "Optimized for reading with sidebar"
+msgstr ""
+
+#: includes/option_helpers.php:421
+msgid "Center aligned (Rething style)"
+msgstr ""
+
+#: includes/option_helpers.php:425
+msgid "Compact (Button Block Under Title)"
+msgstr ""
+
+#: includes/option_helpers.php:429
+msgid "Compact (Button Block Before Title)"
+msgstr ""
+
+#: includes/option_helpers.php:433
+msgid "Button in corner (Repick style)"
+msgstr ""
+
+#: includes/option_helpers.php:437
+msgid "Title Inside image"
+msgstr ""
+
+#: includes/option_helpers.php:441
+msgid "Title Inside full image"
+msgstr ""
+
+#: includes/option_helpers.php:445
+msgid "Big post offer block in top"
+msgstr ""
+
+#: includes/option_helpers.php:449
+msgid "Offer and review score"
+msgstr ""
+
+#: includes/option_helpers.php:466
+msgid "Default without sidebar 3 column"
+msgstr ""
+
+#: includes/option_helpers.php:470
+msgid "Default without sidebar 2 column"
+msgstr ""
+
+#: includes/option_helpers.php:498
+msgid "Compare prices by shortcode"
+msgstr ""
+
+#: includes/option_helpers.php:530 includes/theme_metabox.php:866
+msgid "Dark Layout"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:7
+msgid "Logo"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:33 includes/taxonomy_cpt.php:34
+#: includes/taxonomy_cpt.php:43
+msgid "Affiliate Store"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:35
+msgid "Search store"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:36
+msgid "All stores"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:37
+msgid "Parent store"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:38
+msgid "Parent store:"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:39
+msgid "Edit store"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:40
+msgid "Update store"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:41
+msgid "Add new store"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:42
+msgid "New store name"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:72 includes/taxonomy_cpt.php:73
+#: includes/taxonomy_cpt.php:74 includes/taxonomy_cpt.php:75
+#: includes/taxonomy_cpt.php:80
+msgid "Hidden from Archive"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:76
+msgid "Edit"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:77
+msgid "Update"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:78
+msgid "Add new"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:79
+msgid "New"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:104 includes/taxonomy_cpt.php:105
+#: includes/taxonomy_cpt.php:107 includes/taxonomy_cpt.php:131
+msgid "Blog"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:108
+msgid "Item Archives"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:109 includes/taxonomy_cpt.php:164
+#: includes/taxonomy_cpt.php:204
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:110
+msgid "All Items"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:111
+msgid "Add New Item"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:112
+msgid "Add New"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:113
+msgid "New Item"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:114
+msgid "Edit Item"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:115
+msgid "Update Item"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:116
+msgid "View Item"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:117
+msgid "Search Item"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:118
+msgid "Not found"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:119
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:120
+msgid "Featured Image"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:121
+msgid "Set featured image"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:122
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:123
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:124
+msgid "Insert into item"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:125
+msgid "Uploaded to this item"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:126 includes/taxonomy_cpt.php:177
+#: includes/taxonomy_cpt.php:217
+msgid "Items list"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:127 includes/taxonomy_cpt.php:178
+#: includes/taxonomy_cpt.php:218
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:128
+msgid "Filter items list"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:132
+msgid "Blog Description"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:159
+msgid "Blog categories"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:160 includes/taxonomy_cpt.php:161
+msgid "Blog category"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:162
+msgid "All categories"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:163 includes/taxonomy_cpt.php:203
+msgid "Parent Item"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:165
+msgid "New category"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:166
+msgid "Add category"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:167
+msgid "Edit category"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:168
+msgid "Update category"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:169
+msgid "View category"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:170 includes/taxonomy_cpt.php:210
+msgid "Separate items with commas"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:171 includes/taxonomy_cpt.php:211
+msgid "Add or remove items"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:172 includes/taxonomy_cpt.php:212
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:173 includes/taxonomy_cpt.php:213
+msgid "Popular Items"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:174 includes/taxonomy_cpt.php:214
+msgid "Search Items"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:175 includes/taxonomy_cpt.php:215
+msgid "Not Found"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:176 includes/taxonomy_cpt.php:216
+msgid "No items"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:199
+msgid "Blog tags"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:200 includes/taxonomy_cpt.php:201
+msgid "Blog tag"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:202
+msgid "All tags"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:205
+msgid "New tag"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:206
+msgid "Add tag"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:207
+msgid "Edit tag"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:208
+msgid "Update tag"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:209
+msgid "View tag"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:254
+msgid "F d, Y"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:323 includes/taxonomy_cpt.php:324
+#: includes/taxonomy_cpt.php:333
+msgid "Brand"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:325
+msgid "Search brand"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:326
+msgid "All brands"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:327
+msgid "Parent brand"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:328
+msgid "Parent brand:"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:329
+msgid "Edit brand"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:330
+msgid "Update brand"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:331
+msgid "Add new brand"
+msgstr ""
+
+#: includes/taxonomy_cpt.php:332
+msgid "New brand name"
+msgstr ""
+
+#: includes/theme_metabox.php:103
+msgid "Insert url of offer"
+msgstr ""
+
+#: includes/theme_metabox.php:108
+msgid "Name of product"
+msgstr ""
+
+#: includes/theme_metabox.php:109
+msgid "Insert title or leave blank"
+msgstr ""
+
+#: includes/theme_metabox.php:114
+msgid "Short description of product"
+msgstr ""
+
+#: includes/theme_metabox.php:115
+msgid "Enter description of product or leave blank"
+msgstr ""
+
+#: includes/theme_metabox.php:121
+msgid ""
+"Optional. It works in [quick_offer] and [wpsm_top] shortcodes. HTML and "
+"shortcodes are supported"
+msgstr ""
+
+#: includes/theme_metabox.php:127
+msgid "Insert old price of offer or leave blank"
+msgstr ""
+
+#: includes/theme_metabox.php:133
+msgid "Insert sale price of offer (example, $55)"
+msgstr ""
+
+#: includes/theme_metabox.php:139 includes/theme_metabox.php:275
+msgid "Set coupon code or leave blank"
+msgstr ""
+
+#: includes/theme_metabox.php:144
+msgid "Expiration Date"
+msgstr ""
+
+#: includes/theme_metabox.php:145
+msgid "Choose expiration date or leave blank"
+msgstr ""
+
+#: includes/theme_metabox.php:151 includes/theme_metabox.php:287
+msgid "If this option is enabled, coupon code will be hidden."
+msgstr ""
+
+#: includes/theme_metabox.php:156
+msgid "Offer is expired?"
+msgstr ""
+
+#: includes/theme_metabox.php:157
+msgid "It works automatically, but you can force expiration"
+msgstr ""
+
+#: includes/theme_metabox.php:163
+msgid ""
+"Insert text (not more than 14 symbols) on button or leave blank to use "
+"default text"
+msgstr ""
+
+#: includes/theme_metabox.php:168
+msgid "Upload thumbnail"
+msgstr ""
+
+#: includes/theme_metabox.php:169
+msgid "Upload thumbnail of product or leave blank to use post thumbnail"
+msgstr ""
+
+#: includes/theme_metabox.php:174
+msgid "Brand logo url"
+msgstr ""
+
+#: includes/theme_metabox.php:175
+msgid ""
+"Fallback for brand logo (better to add brand logo in Affiliate store fields)"
+msgstr ""
+
+#: includes/theme_metabox.php:180
+msgid "Discount Tag"
+msgstr ""
+
+#: includes/theme_metabox.php:181
+msgid ""
+"Will be visible in deal, coupon list instead featured image. It shows "
+"maximum 5 symbols. Example: $20"
+msgstr ""
+
+#: includes/theme_metabox.php:186
+msgid "Shortcode for this offer section"
+msgstr ""
+
+#: includes/theme_metabox.php:193
+msgid "Synchronization with Content Egg"
+msgstr ""
+
+#: includes/theme_metabox.php:280
+msgid "Offer End Date"
+msgstr ""
+
+#: includes/theme_metabox.php:281
+msgid "Choose expiration date of product or leave blank"
+msgstr ""
+
+#: includes/theme_metabox.php:292
+msgid "Additional coupon image url"
+msgstr ""
+
+#: includes/theme_metabox.php:293
+msgid ""
+"Used for printable coupon function. To enable it, you must have any coupon "
+"code above"
+msgstr ""
+
+#: includes/theme_metabox.php:305
+msgid "Set Heading Title"
+msgstr ""
+
+#: includes/theme_metabox.php:310
+msgid "Set Short description"
+msgstr ""
+
+#: includes/theme_metabox.php:311
+msgid "Will be in sidebar"
+msgstr ""
+
+#: includes/theme_metabox.php:316
+msgid "Set url of store"
+msgstr ""
+
+#: includes/theme_metabox.php:321
+msgid "Set short notice (cashback notice)"
+msgstr ""
+
+#: includes/theme_metabox.php:326
+msgid "Set bottom description"
+msgstr ""
+
+#: includes/theme_metabox.php:327
+msgid "Will be in bottom of page"
+msgstr ""
+
+#: includes/theme_metabox.php:332 install/index.php:829
+msgid "Upload logo"
+msgstr ""
+
+#: includes/theme_metabox.php:333
+msgid "Upload or choose image here for retailer logo or category header banner"
+msgstr ""
+
+#: includes/theme_metabox.php:347
+msgid "Post Thumbnails and video"
+msgstr ""
+
+#: includes/theme_metabox.php:348
+msgid "Post Offer"
+msgstr ""
+
+#: includes/theme_metabox.php:350
+msgid "Post User Review"
+msgstr ""
+
+#: includes/theme_metabox.php:354
+msgid "Product video"
+msgstr ""
+
+#: includes/theme_metabox.php:355
+msgid "Product Layout"
+msgstr ""
+
+#: includes/theme_metabox.php:357
+msgid "Pros and Cons"
+msgstr ""
+
+#: includes/theme_metabox.php:412
+msgid ""
+"By default, only next Post layouts will show offerbox automatically: "
+"Compact, Button in corner, Big post offer block in top, Offer and review "
+"score. You can also add next shortcode to render offerbox:"
+msgstr ""
+
+#: includes/theme_metabox.php:488 includes/theme_metabox.php:937
+#: includes/theme_metabox.php:984
+msgid "Choose Image"
+msgstr ""
+
+#: includes/theme_metabox.php:796
+msgid "Delete"
+msgstr ""
+
+#: includes/theme_metabox.php:815
+msgid "Add post gallery images"
+msgstr ""
+
+#: includes/theme_metabox.php:819 includes/theme_metabox.php:838
+msgid ""
+"Add video links, each link from new line. Youtube and vimeo are supported"
+msgstr ""
+
+#: includes/theme_metabox.php:822
+msgid ""
+"You can add gallery to post with shortcode [rh_get_post_thumbnails video=1 "
+"height=200 justify=1]. video=1 - include also video. Height is maximum "
+"height, justify=1 is parameter to show pretty justify gallery. "
+"[rh_get_post_videos] will show only videos in full size column"
+msgstr ""
+
+#: includes/theme_metabox.php:848
+msgid "Global from Theme option - Shop"
+msgstr ""
+
+#: includes/theme_metabox.php:875
+msgid "No Badge"
+msgstr ""
+
+#: includes/theme_metabox.php:885
+msgid ""
+"Check this if you want to show badge. You can customize them in theme option"
+msgstr ""
+
+#: includes/theme_metabox.php:1037
+msgid "Shortcode with caching (24 hours)"
+msgstr ""
+
+#: includes/theme_metabox.php:1039
+msgid "Ajax loaded on Hover and trigger classes"
+msgstr ""
+
+#: includes/theme_metabox.php:1044
+msgid "Auto render by view"
+msgstr ""
+
+#: includes/theme_metabox.php:1046
+msgid "Php code"
+msgstr ""
+
+#: includes/theme_metabox.php:1084
+msgid "Custom code areas"
+msgstr ""
+
+#: includes/theme_metabox.php:1097 includes/theme_metabox.php:1098
+#: includes/theme_metabox.php:1099
+msgid "Custom shortcode"
+msgstr ""
+
+#: includes/theme_metabox.php:1097
+msgid "Will be rendered near button"
+msgstr ""
+
+#: includes/theme_metabox.php:1098
+msgid "Will be rendered before Content"
+msgstr ""
+
+#: includes/theme_metabox.php:1099
+msgid "Will be rendered as Additional Section"
+msgstr ""
+
+#: includes/theme_metabox.php:1100
+msgid "Custom background color"
+msgstr ""
+
+#: includes/theme_metabox.php:1100
+msgid "Example: #dddddd or lightgrey"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:38
+#: includes/woo_group_attributes_class.php:49
+msgid "Attribute Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:39
+msgid "Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:40
+#: includes/woo_group_attributes_class.php:41
+msgid "Add New Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:42
+msgid "Edit Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:43
+msgid "New Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:44
+msgid "View Attribute Group"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:45
+msgid "Search Attribute Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:46
+msgid "No Attribute Groups found"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:47
+msgid "No Attribute Groups found in Trash"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:48
+msgid "Parent Attribute Group:"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:68
+msgid "Attribute Group Category"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:69
+msgid "Attribute Group Categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:74
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:75
+msgid "All Categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:76
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:77
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:78
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:79
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:80
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:81
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:132
+#: includes/woo_group_attributes_class.php:189
+msgid "Attributes"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:311
+msgid "Product Attribute Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:319
+#: includes/woo_group_attributes_class.php:344
+msgid "Load"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:321
+msgid "Groups Categories"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:346
+msgid "Current Groups"
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:353
+msgid "Are you sure you want to navigate away."
+msgstr ""
+
+#: includes/woo_group_attributes_class.php:353
+msgid "Manage Groups"
+msgstr ""
+
+#: includes/woo_store_permalink_class.php:26
+msgid "Brand base"
+msgstr ""
+
+#: install/index.php:99
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: install/index.php:132
+msgid "REHub Installation Wizard"
+msgstr ""
+
+#: install/index.php:137
+msgid "Return to dashboard"
+msgstr ""
+
+#: install/index.php:168
+msgid "Cancel"
+msgstr ""
+
+#: install/index.php:169
+msgid "Start"
+msgstr ""
+
+#: install/index.php:190 install/index.php:216 install/index.php:242
+#: install/index.php:268 install/index.php:293 install/index.php:380
+#: install/index.php:450
+msgid "Skip"
+msgstr ""
+
+#: install/index.php:192 vendor/vafpress/views/option/impexp.php:4
+#: vendor/vafpress/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: install/index.php:359
+msgid "req"
+msgstr ""
+
+#: install/index.php:364
+msgid "Optional"
+msgstr ""
+
+#: install/index.php:365
+msgid "opt"
+msgstr ""
+
+#: install/index.php:382
+msgid "Install"
+msgstr ""
+
+#: install/index.php:386
+msgid "Next"
+msgstr ""
+
+#: install/index.php:432
+msgid "Open Support Center"
+msgstr ""
+
+#: install/index.php:556 install/index.php:860
+msgid "Wishlist"
+msgstr ""
+
+#: install/index.php:563 install/index.php:863
+msgid "Comparison"
+msgstr ""
+
+#: install/index.php:631
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s."
+msgstr ""
+
+#: install/index.php:741
+msgid "Activating"
+msgstr ""
+
+#: install/index.php:757 install/index.php:765
+msgid "Installing"
+msgstr ""
+
+#: install/index.php:819
+msgid "Welcome"
+msgstr ""
+
+#: install/index.php:820
+msgid ""
+"This Installation Wizard helps you to setup the necessary options for REHub "
+"theme. It is optional & should take only a few minutes."
+msgstr ""
+
+#: install/index.php:824
+msgid "Import Theme options"
+msgstr ""
+
+#: install/index.php:830
+msgid ""
+"Max width is 450px. (1200px for full width, 180px for logo + menu row layout)"
+msgstr ""
+
+#: install/index.php:836
+msgid "Upload mobile logo"
+msgstr ""
+
+#: install/index.php:837
+msgid ""
+"It will be visible on Menu panel only on mobiles. If you keep default colors "
+"of mobile header, theme will use colors of menu for mobile header"
+msgstr ""
+
+#: install/index.php:847
+msgid "Upload logo in Sliding panel"
+msgstr ""
+
+#: install/index.php:848
+msgid "It will be visible on Menu Sliding panel only on mobiles"
+msgstr ""
+
+#: install/index.php:856
+msgid "Create pages"
+msgstr ""
+
+#: install/index.php:857
+msgid ""
+"Please, check which system pages you want to create. Later, resave your "
+"permalinks in Settings - Permalinks"
+msgstr ""
+
+#: install/index.php:866
+msgid "Additional Blog section"
+msgstr ""
+
+#: install/index.php:869
+msgid "Affiliate store pages"
+msgstr ""
+
+#: install/index.php:872
+msgid "Install plugins"
+msgstr ""
+
+#: install/index.php:873
+msgid "You are good to go!."
+msgstr ""
+
+#: install/index.php:874
+msgid "Do you want to install plugins to prepare the site for demo import."
+msgstr ""
+
+#: install/index.php:875
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press \"Next"
+"\" to finish the setup wizard."
+msgstr ""
+
+#: install/index.php:879
+msgid "Setup Done. Have fun!"
+msgstr ""
+
+#: install/index.php:880
+msgid ""
+"SAVE YOUR TIME. If you have any questions, search them first via QUICK "
+"SEARCH in your Support center. "
+msgstr ""
+
+#: install/readme.php:23
+msgid "Run Installation Wizard"
+msgstr ""
+
+#: rehub-framework.php:62
+#, php-format
+msgid ""
+"Sorry, REHub Framework plugin works only with REHub themes. Please, "
+"deactivate Rehub Framework plugin or activate REHub theme %s"
+msgstr ""
+
+#: vendor/vafpress/bootstrap.php:83 vendor/vafpress/classes/option.php:364
+#: vendor/vafpress/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: vendor/vafpress/bootstrap.php:94
+msgid "Unauthorized function"
+msgstr ""
+
+#: vendor/vafpress/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: vendor/vafpress/classes/metabox.php:566
+#: vendor/vafpress/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: vendor/vafpress/classes/metabox.php:588
+#: vendor/vafpress/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:47 vendor/vafpress/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:479
+#: vendor/vafpress/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: vendor/vafpress/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: vendor/vafpress/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: vendor/vafpress/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: vendor/vafpress/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:14
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:15
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:16
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:17
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:18
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:19
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:20
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:21
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:22
+msgid "Select at least {0} items"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:23
+msgid "This is required"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:30
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:31
+msgid "Import failed"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:32
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:33
+msgid "Export failed"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:34
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:35
+msgid "Options identical to default"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:36
+msgid "Restoration failed"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:44
+msgid "Select option(s)"
+msgstr ""
+
+#: vendor/vafpress/config/messages.php:46
+msgid "Select an Icon"
+msgstr ""
+
+#: vendor/vafpress/views/control/upload.php:6
+msgid "Choose File"
+msgstr ""
+
+#: vendor/vafpress/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: vendor/vafpress/views/option/impexp.php:27
+#: vendor/vafpress/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: vendor/vafpress/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: vendor/vafpress/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: vendor/vafpress/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: vendor/vafpress/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: vendor/vafpress/views/option/set.php:70
+#: vendor/vafpress/views/option/set.php:85
+msgid "Save Changes"
+msgstr ""
+
+#: vendor/vafpress/views/option/set.php:71
+#: vendor/vafpress/views/option/set.php:86
+msgid "Saving Now"
+msgstr ""
+
+#~ msgid ""
+#~ "This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+#~ "framework\">Vafpress Framework %s</a> powered by <a href=\"http://"
+#~ "vafpress.com\">Vafpress</a>"
+#~ msgstr " "

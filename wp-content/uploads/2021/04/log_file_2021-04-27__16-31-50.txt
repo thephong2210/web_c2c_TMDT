@@ -1,0 +1,96 @@
+
+---Downloaded files---
+The import files for: ReDokanNew were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = D:\Program files\xampp\htdocs\wordpress/wp-content/uploads/2021/04/demo-content-import-file_2021-04-27__16-31-50.xml
+Widget file = D:\Program files\xampp\htdocs\wordpress/wp-content/uploads/2021/04/demo-widgets-import-file_2021-04-27__16-31-50.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Post Sidebar Area : 
+
+ReHub: Ajax Tabs - No Title - Imported
+ReHub: Sticky on scroll - No Title - Imported
+
+Footer 1 : 
+
+Văn bản - About Rehub - Imported
+
+Footer 2 : 
+
+Văn bản - No Title - Imported
+
+Footer 3 : 
+
+Văn bản - Sign Up for Weekly Newsletter - Imported
+Ảnh - No Title - Imported
+
+Woocommerce shop sidebar : 
+
+Lọc sản phẩm bởi giá - Filter by price - Imported
+Lọc sản phẩm bởi Thuộc tính - Color - Imported
+Lọc sản phẩm bởi Thuộc tính - Memory - Imported
+Lọc sản phẩm bởi Thuộc tính - Display Type - Imported
+Lọc sản phẩm bởi Thuộc tính - Operation System - Imported
+Lọc sản phẩm theo bình chọn - Average rating - Imported
+
+Woocommerce product sidebar : 
+
+ReHub: Latest Woo Comparisons - Latest Comparisons - Imported
+ReHub: Top Offers/Products - Top offers - Imported
+
+
+
+---ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------Menu was assigned-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------HomePage was assigned-------
